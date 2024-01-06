@@ -2,7 +2,7 @@
 
 This guide is designed for those preparing for the Certified Tester Advanced Level Technical Test Analyst exam. It provides a structured approach to learning, focusing on key areas of technical test analysis. Each chapter and section includes a checkbox for tracking your progress and a space to note the date you completed your study.
 
-## How to Use This Guide
+## How to Use
 
 - Check off each topic as you complete it.
 - Record the date of completion for each section to track your progress.
