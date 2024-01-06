@@ -10,3 +10,5 @@
   - [ ] ### 3.3.2 Detecting Memory Leaks - _Date Completed:_
   - [ ] ### 3.3.3 Detecting Wild Pointers - _Date Completed:_
   - [ ] ### 3.3.4 Analysis of Performance Efficiency - _Date Completed:_
+
+[Previous Chapter - Chapter 2: White-Box Test Techniques](2-white-box-test-techniques.md) | [Next Chapter - Chapter 4: Quality Characteristics for Technical Testing](4-quality-characteristics-for-technical-testing.md)

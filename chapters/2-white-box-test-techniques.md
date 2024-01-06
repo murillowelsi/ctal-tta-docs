@@ -10,3 +10,5 @@
 - [ ] ## 2.8 Selecting a White-Box Test Technique - _Date Completed:_
   - [ ] ### 2.8.1 Non-Safety-Related Systems - _Date Completed:_
   - [ ] ### 2.8.2 Safety-related systems - _Date Completed:_
+
+[Previous Chapter - Chapter 1: The Technical Test Analyst's Tasks in Risk-Based Testing](1-technical-test-analysts-tasks-in-risk-based-testing.md) | [Next Chapter - Chapter 3: Static and Dynamic Analysis](3-static-and-dynamic-analysis.md)

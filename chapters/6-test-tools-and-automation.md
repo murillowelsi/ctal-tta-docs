@@ -11,3 +11,5 @@
   - [ ] ### 6.2.5 Tools to Support Model-Based Testing - _Date Completed:_
   - [ ] ### 6.2.6 Component Testing and Build Tools - _Date Completed:_
   - [ ] ### 6.2.7 Tools to Support Mobile Application Testing - _Date Completed:_
+
+[Previous Chapter - Chapter 5: Reviews](5-reviews.md)
