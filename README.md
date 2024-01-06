@@ -6,6 +6,11 @@ This guide is designed for those preparing for the Certified Tester Advanced Lev
 
 - Check off each topic as you complete it.
 - Record the date of completion for each section to track your progress.
+- Rate your understanding of each section using the "Understanding Level" emojis:
+  - 😊: Understood well / Easy
+  - 😐: Somewhat understood / Medium difficulty
+  - 🤢: Challenging / Found difficult
+  - 🤮: Very challenging / Did not understand
 
 ## Chapters
 
