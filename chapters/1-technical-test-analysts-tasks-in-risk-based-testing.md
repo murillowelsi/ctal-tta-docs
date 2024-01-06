@@ -6,4 +6,4 @@
     - [ ] ### 1.2.2 Risk Assessment - _Date Completed:_
     - [ ] ### 1.2.3 Risk Mitigation - _Date Completed:_
 
-[Next Chapter - Chapter 2: White-Box Test Techniques](2-white-box-test-techniques.md)
+[Next Chapter](2-white-box-test-techniques.md)

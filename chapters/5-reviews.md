@@ -5,4 +5,4 @@
     - [ ] ### 5.2.1 Architectural Reviews - _Date Completed:_
     - [ ] ### 5.2.2 Code Reviews - _Date Completed:_
 
-[Previous Chapter - Chapter 4: Quality Characteristics for Technical Testing](4-quality-characteristics-for-technical-testing.md) | [Next Chapter - Chapter 6: Test Tools and Automation](6-test-tools-and-automation.md)
+[Previous Chapter](4-quality-characteristics-for-technical-testing.md) | [Next Chapter](6-test-tools-and-automation.md)

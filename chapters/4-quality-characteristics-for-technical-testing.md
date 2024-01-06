@@ -41,4 +41,4 @@
     - [ ] ### 4.8.2 Coexistence Testing - _Date Completed:_
 - [ ] ## 4.9 Operational Profiles - _Date Completed:_
 
-[Previous Chapter - Chapter 3: Static and Dynamic Analysis](3-static-and-dynamic-analysis.md) | [Next Chapter - Chapter 5: Reviews](5-reviews.md)
+[Previous Chapter](3-static-and-dynamic-analysis.md) | [Next Chapter](5-reviews.md)
