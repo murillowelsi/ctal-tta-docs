@@ -8,7 +8,7 @@
 - [ ] 2.6 Basis Path Testing - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
 - [ ] 2.7 API Testing - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
 - [ ] 2.8 Selecting a White-Box Test Technique - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
-    - [ ] 2.8.1 Non-Safety-Related Systems - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
-    - [ ] 2.8.2 Safety-related systems - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
+  - [ ] 2.8.1 Non-Safety-Related Systems - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
+  - [ ] 2.8.2 Safety-related systems - _Date Completed:_ - _Understanding Level:_ 😊😐🤢🤮
 
 [Previous Chapter](1-technical-test-analysts-tasks-in-risk-based-testing.md) | [Next Chapter](3-static-and-dynamic-analysis.md)
