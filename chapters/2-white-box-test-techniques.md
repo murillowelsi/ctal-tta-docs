@@ -20,7 +20,7 @@
 
 ## 2.2 Statement Testing
 
-- [ ] **Date Completed:** - **Understanding Level:** 😊😐🤢🤮
+- [x] **Date Completed:** 08/01/2024 - **Understanding Level:** 😊
   - Statement testing exercises executable statements in code.
   - Coverage is measured as the ratio of executed statements to total executable statements (expressed as a percentage).
   - Achieving full statement coverage is ideal but not always possible due to time or effort constraints.
@@ -29,22 +29,47 @@
   - Constraints on available time and effort can limit achieving full statement coverage.
   - Certain defects in code logic may go undetected even with high statement coverage.
 
-#### Statement Coverage Example
+### Statement Coverage Example
 
-Consider a simple Python function:
+- Consider a simple Python function:
 
 ```python
 def divide(a, b):
-    result = a / b
+    result = 0
+    if b != 0:
+        result = a / b
     return result
 ```
 
-- To achieve 100% statement coverage, you need to write test cases that execute both lines of code:
-
-  - Test Case 1: divide(6, 2) - This will execute both lines and return a result.
-  - Test Case 2: divide(8, 0) - This will execute both lines and raise a ZeroDivisionError.
-
+- In this code, the executable statements are the ones inside the if block. Statement coverage would involve executing those statements.
 - However, achieving 100% statement coverage may not guarantee that all potential issues are caught, such as checking for negative values or other edge cases.
+
+### Limitations/Difficulties
+
+- **Limited Time/Effort:** If you have a large codebase, testing every statement may take too long or require too much effort, making it impractical.
+- **Incomplete Coverage:** Achieving 100% statement coverage may not guarantee that all code paths and edge cases are tested. For example:
+
+```python
+def divide(a, b):
+    result = 0
+    if b != 0:
+        result = a / b
+    else:
+        print("Division by zero!")
+    return result
+```
+
+- Even with 100% statement coverage, you may miss testing the "Division by zero!" message.
+
+```python
+def unreachable_example(x):
+    if x > 0:
+        print("x is positive")
+    else:
+        print("x is non-positive")
+```
+
+- Achieving 100% statement coverage here is impossible because only one of the if or else branches will ever be executed, not both.
 
 ## 2.3 Decision Testing
 
