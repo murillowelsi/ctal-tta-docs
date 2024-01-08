@@ -14,7 +14,6 @@
 ## 1.2 Risk-based Testing Tasks
 
 - [x] **Date Completed:** 08/01/2024 - **Understanding Level:** 😊
-
     - Technical Test Analysts perform risk-based testing tasks.
     - Tasks include risk identification, assessment, and mitigation.
     - These tasks are iterative and adapt to emerging risks and changing priorities.
