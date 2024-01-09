@@ -140,9 +140,14 @@ def unreachable_example(x):
     | 7     | F   | F   | T   | F       |
     | 8     | F   | F   | F   | F       |
 
-  - For **A**: {1,5} {2,6} {3,7} `This demonstrates that **A** independently affects the outcome.`
-  - For **B**: {2,4} `This demonstrates that **B** independently affects the outcome.`
-  - For **C**: {3,4} `This demonstrates that **C** independently affects the outcome.`
+  - For **A**: {1,5} **{2,6}** {3,7} `This demonstrates that **A** independently affects the outcome.`
+  - For **B**: **{2,4}** `This demonstrates that **B** independently affects the outcome.`
+  - For **C**: **{3,4}** `This demonstrates that **C** independently affects the outcome.`
+  - Minimizing the test cases: **{2,3,4,6}**
+
+  - Minimum Test Cases for 100% Modified Condition/Decision Testing is N + 1
+  - N is the number of conditions
+  - In this case above we should have 4 test cases
 
 ## 2.5 Multiple Condition Testing
 
