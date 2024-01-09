@@ -85,9 +85,9 @@ def unreachable_example(x):
   - Limitations include not considering details of decisions with multiple conditions and potential defect detection issues.
   - If you have nested IF decisions, you can use a simple formula to solve the exercise.
 
-    ```javascript
-    (Number of IFs + 1)
-    ```
+  ```javascript
+  (Number of IFs + 1)
+  ```
 
 ### Decision Testing Example
 
