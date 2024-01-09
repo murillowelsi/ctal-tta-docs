@@ -81,8 +81,8 @@ def unreachable_example(x):
   - It evaluates TRUE and FALSE outcomes of decisions, regardless of internal complexity.
   - Branch testing is often used interchangeably with decision testing and covers control flow branches.
   - For programs with no decisions, ISO 29119-4 requires at least one test to achieve 100% decision coverage.
-  - Applicable for critical code and any models with decision points.
-  - Limitations include not considering details of decisions with multiple conditions and potential defect detection issues.
+  - **Applicability:** critical code and any models with decision points.
+  - **Limitations:** not considering details of decisions with multiple conditions and potential defect detection issues.
   - If you have nested IF decisions, you can use a simple formula to solve the exercise.
 
   ```javascript
@@ -120,33 +120,56 @@ def unreachable_example(x):
 
   - Modified Condition/Decision Testing (MC/DC) is a testing technique that focuses on how decisions are structured, especially when they contain multiple conditions.
   - Each decision predicate consists of one or more atomic conditions, and MC/DC checks if each atomic condition independently influences the decision's outcome.
-  - MC/DC is especially useful in safety-critical industries like aerospace and automotive, where software failures can have catastrophic consequences.
   - It provides stronger coverage than statement and decision coverage when dealing with decisions with multiple conditions.
   - Achieving MC/DC typically requires testing a decision N+1 times, assuming N unique, mutually independent atomic conditions.
-  - Limitations and difficulties may arise when multiple occurrences of the same variable in a decision with multiple conditions are coupled, making it challenging to achieve MC/DC.
+  - **Applicability:** MC/DC is especially useful in safety-critical industries like aerospace and automotive, where software failures can have catastrophic consequences.
+  - **Limitations:** difficulties may arise when multiple occurrences of the same variable in a decision with multiple conditions are coupled, making it challenging to achieve MC/DC.
   - Some compilers or interpreters exhibit short-circuiting behavior, which can affect MC/DC testing by preventing the evaluation of all conditions in a decision.
   - Configuring compilers to disable short-circuiting may not be allowed in safety-critical applications where code testing and delivered code must be identical.
 
-- Applying the Modified Condition/Decision Testing (MC/DC) technique to the scenario `(A && (B | C))`
+  - Applying the Modified Condition/Decision Testing (MC/DC) technique to the scenario `(A && (B | C))`
 
-  | Tests | A   | B   | C   | Outcome |
-  | ----- | --- | --- | --- | ------- |
-  | 1     | T   | T   | T   | T       |
-  | 2     | T   | T   | F   | T       |
-  | 3     | T   | F   | T   | T       |
-  | 4     | T   | F   | F   | F       |
-  | 5     | F   | T   | T   | F       |
-  | 6     | F   | T   | F   | F       |
-  | 7     | F   | F   | T   | F       |
-  | 8     | F   | F   | F   | F       |
+    | Tests | A   | B   | C   | Outcome |
+    | ----- | --- | --- | --- | ------- |
+    | 1     | T   | T   | T   | T       |
+    | 2     | T   | T   | F   | T       |
+    | 3     | T   | F   | T   | T       |
+    | 4     | T   | F   | F   | F       |
+    | 5     | F   | T   | T   | F       |
+    | 6     | F   | T   | F   | F       |
+    | 7     | F   | F   | T   | F       |
+    | 8     | F   | F   | F   | F       |
 
-- For **A**: {1,5} {2,6} {3,7} `This demonstrates that **A** independently affects the outcome.`
-- For **B**: {2,4} `This demonstrates that **B** independently affects the outcome.`
-- For **C**: {3,4} `This demonstrates that **C** independently affects the outcome.`
+  - For **A**: {1,5} {2,6} {3,7} `This demonstrates that **A** independently affects the outcome.`
+  - For **B**: {2,4} `This demonstrates that **B** independently affects the outcome.`
+  - For **C**: {3,4} `This demonstrates that **C** independently affects the outcome.`
 
 ## 2.5 Multiple Condition Testing
 
-- [ ] **Date Completed:** - **Understanding Level:** 😊😐🤢🤮
+- [x] **Date Completed:** 09/01/2024 - **Understanding Level:** 😊
+
+  - Multiple condition testing is used to test all possible combinations of atomic conditions in a decision.
+  - It requires exercising a decision 2^N times, where N is the number of unique, mutually independent atomic conditions.
+  - Coverage is measured as the percentage of exercised atomic condition combinations over all decisions in the test object.
+  - **Applicability:** This technique is used for high-risk and embedded software expected to run reliably for extended periods.
+  - **Limitations:** large number of test cases required and potential reduction in condition combinations due to short-circuiting in compilers.
+
+  - Applying the **Multiple Condition Testing** technique to the scenario `(A && (B | C))`
+
+    | Tests | A   | B   | C   | Outcome |
+    | ----- | --- | --- | --- | ------- |
+    | 1     | T   | T   | T   | T       |
+    | 2     | T   | T   | F   | T       |
+    | 3     | T   | F   | T   | T       |
+    | 4     | T   | F   | F   | F       |
+    | 5     | F   | T   | T   | F       |
+    | 6     | F   | T   | F   | F       |
+    | 7     | F   | F   | T   | F       |
+    | 8     | F   | F   | F   | F       |
+
+  - Minimum Test Cases for 100% Multiple Condition Testing coverage is 2^N
+  - N is the number of conditions
+  - In this case above we should have 8 test cases -> 2^8.
 
 ## 2.6 Basis Path Testing
 
