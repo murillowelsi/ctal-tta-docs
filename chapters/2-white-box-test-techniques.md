@@ -73,7 +73,46 @@ def unreachable_example(x):
 
 ## 2.3 Decision Testing
 
-- [ ] **Date Completed:** - **Understanding Level:** 😊😐🤢🤮
+- [x] **Date Completed:** 09/01/2024 - **Understanding Level:** 😊
+
+  - Decision testing focuses on testing decision outcomes in code.
+  - Test cases follow control flows from decision points **(e.g., IF, CASE, LOOP statements)**.
+  - Coverage is measured as a percentage of decision outcomes exercised by tests.
+  - It evaluates TRUE and FALSE outcomes of decisions, regardless of internal complexity.
+  - Branch testing is often used interchangeably with decision testing and covers control flow branches.
+  - For programs with no decisions, ISO 29119-4 requires at least one test to achieve 100% decision coverage.
+  - Applicable for critical code and any models with decision points.
+  - Limitations include not considering details of decisions with multiple conditions and potential defect detection issues.
+  - If you have nested IF decisions, you can use a simple formula to solve the exercise.
+
+    ```javascript
+    (Number of IFs + 1)
+    ```
+
+### Decision Testing Example
+
+- How many test cases would you design to achieve 100% decision coverage?
+
+  ```javascript
+  IF A THEN
+      IF B THEN
+          Statement Q
+      ELSE
+          Statement R
+      ENDIF
+  ELSE
+      Statement S
+      IF C THEN
+          Statement T
+      ELSE
+          Statement U
+      ENDIF
+  ENDIF
+  Statement V
+  ```
+
+- Minimum test cases for a 100% Decision Coverage = **4**
+- Number of IFs = **3** + **1** = **4 Test Cases**
 
 ## 2.4 Modified Condition/Decision Testing
 
