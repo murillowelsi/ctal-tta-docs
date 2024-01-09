@@ -178,7 +178,7 @@ def unreachable_example(x):
 
 ## 2.6 Basis Path Testing
 
-- [ ] **Date Completed:** - **Understanding Level:** 😊😐🤢🤮
+- _This chapter has been removed from version v4.0 of this syllabus._
 
 ## 2.7 API Testing
 
