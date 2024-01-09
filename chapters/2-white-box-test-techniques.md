@@ -149,7 +149,7 @@ def unreachable_example(x):
 - [x] **Date Completed:** 09/01/2024 - **Understanding Level:** 😊
 
   - Multiple condition testing is used to test all possible combinations of atomic conditions in a decision.
-  - It requires exercising a decision 2^N times, where N is the number of unique, mutually independent atomic conditions.
+  - It requires exercising a decision 2<sup>N</sup> times, where N is the number of unique, mutually independent atomic conditions.
   - Coverage is measured as the percentage of exercised atomic condition combinations over all decisions in the test object.
   - **Applicability:** This technique is used for high-risk and embedded software expected to run reliably for extended periods.
   - **Limitations:** large number of test cases required and potential reduction in condition combinations due to short-circuiting in compilers.
@@ -167,9 +167,9 @@ def unreachable_example(x):
     | 7     | F   | F   | T   | F       |
     | 8     | F   | F   | F   | F       |
 
-  - Minimum Test Cases for 100% Multiple Condition Testing coverage is $$2^N$$
-  - N is the number of conditions
-  - In this case above we should have 8 test cases -> $$2^8$$.
+- Minimum Test Cases for 100% Multiple Condition Testing coverage is 2<sup>N</sup>
+- N is the number of conditions
+- In this case above we should have 8 test cases -> 2<sup>8</sup>
 
 ## 2.6 Basis Path Testing
 
