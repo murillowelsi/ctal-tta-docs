@@ -167,9 +167,9 @@ def unreachable_example(x):
     | 7     | F   | F   | T   | F       |
     | 8     | F   | F   | F   | F       |
 
-  - Minimum Test Cases for 100% Multiple Condition Testing coverage is 2^N
+  - Minimum Test Cases for 100% Multiple Condition Testing coverage is $$2^N$$
   - N is the number of conditions
-  - In this case above we should have 8 test cases -> 2^8.
+  - In this case above we should have 8 test cases -> $$2^8$$.
 
 ## 2.6 Basis Path Testing
 
