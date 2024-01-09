@@ -117,6 +117,7 @@ def unreachable_example(x):
 ## 2.4 Modified Condition/Decision Testing
 
 - [x] **Date Completed:** 09/01/2024 - **Understanding Level:** 😐
+
   - Modified Condition/Decision Testing (MC/DC) is a testing technique that focuses on how decisions are structured, especially when they contain multiple conditions.
   - Each decision predicate consists of one or more atomic conditions, and MC/DC checks if each atomic condition independently influences the decision's outcome.
   - MC/DC is especially useful in safety-critical industries like aerospace and automotive, where software failures can have catastrophic consequences.
@@ -126,18 +127,18 @@ def unreachable_example(x):
   - Some compilers or interpreters exhibit short-circuiting behavior, which can affect MC/DC testing by preventing the evaluation of all conditions in a decision.
   - Configuring compilers to disable short-circuiting may not be allowed in safety-critical applications where code testing and delivered code must be identical.
 
-Applying the Modified Condition/Decision Testing (MC/DC) technique to the scenario `(A && (B | C))`
+- Applying the Modified Condition/Decision Testing (MC/DC) technique to the scenario `(A && (B | C))`
 
-| Tests | A   | B   | C   | Outcome |
-| ----- | --- | --- | --- | ------- |
-| 1     | T   | T   | T   | T       |
-| 2     | T   | T   | F   | T       |
-| 3     | T   | F   | T   | T       |
-| 4     | T   | F   | F   | F       |
-| 5     | F   | T   | T   | F       |
-| 6     | F   | T   | F   | F       |
-| 7     | F   | F   | T   | F       |
-| 8     | F   | F   | F   | F       |
+  | Tests | A   | B   | C   | Outcome |
+  | ----- | --- | --- | --- | ------- |
+  | 1     | T   | T   | T   | T       |
+  | 2     | T   | T   | F   | T       |
+  | 3     | T   | F   | T   | T       |
+  | 4     | T   | F   | F   | F       |
+  | 5     | F   | T   | T   | F       |
+  | 6     | F   | T   | F   | F       |
+  | 7     | F   | F   | T   | F       |
+  | 8     | F   | F   | F   | F       |
 
 - For **A**: {1,5} {2,6} {3,7} `This demonstrates that **A** independently affects the outcome.`
 - For **B**: {2,4} `This demonstrates that **B** independently affects the outcome.`
