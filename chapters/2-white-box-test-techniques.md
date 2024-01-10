@@ -182,7 +182,16 @@ def unreachable_example(x):
 
 ## 2.7 API Testing
 
-- [ ] **Date Completed:** - **Understanding Level:** 😊😐🤢🤮
+- [x] **Date Completed:** 10/01/2024 - **Understanding Level:** 😊
+  - API Testing is essential for evaluating input values and returned data in software systems.
+  - Negative testing is crucial to address potential misuse of API interfaces.
+  - Combinatorial testing may be required due to the complexity of API usage.
+  - Recovery and retry mechanisms should be thoroughly tested for robustness.
+  - High availability and reliability testing are important for API providers.
+  - API testing coverage can vary, with different criteria for RESTful web APIs.
+  - **Applicability:** systems of systems, distributed systems, and remote processing.
+  - **Limitations:** the need for specialized tools and lack of a graphical interface.
+  - **Types of defects:** interface issues, data handling problems, timing issues, transaction loss, duplication, and exception handling issues.
 
 ## 2.8 Selecting a White-Box Test Technique
 
