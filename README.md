@@ -30,8 +30,16 @@ This guide is designed for those preparing for the Certified Tester Advanced Lev
    - [2.7 API Testing](pages/2-white-box-test-techniques/2.7-api-testing.md)
    - [2.8 Selecting a White-Box Test Technique](pages/2-white-box-test-techniques/2.8-selecting-a-white-box-test-technique.md)
 3. Chapter 3: Static and Dynamic Analysis
-   - [3.1 Sub-Chapter 3.1 Title](link-to-sub-chapter-3.1)
-   - [3.2 Sub-Chapter 3.2 Title](link-to-sub-chapter-3.2)
+   - [3.1 Introduction](pages/3-static-and-dynamic-analysis/3.1-introduction.md)
+   - [3.2 Static Analysis](pages/3-static-and-dynamic-analysis/3.2-static-analysis.md)
+     - [3.2.1 Control Flow Analysis](pages/3-static-and-dynamic-analysis/3.2-static-analysis.md#321-control-flow-analysis)
+     - [3.2.2 Data Flow Analysis](pages/3-static-and-dynamic-analysis/3.2-static-analysis.md#322-data-flow-analysis)
+     - [3.2.3 Using Static Analysis for Improving Maintainability](pages/3-static-and-dynamic-analysis/3.2-static-analysis.md#323-using-static-analysis-for-improving-maintainability)
+   - [3.3 Dynamic Analysis](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md)
+     - [3.3.1 Overview](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#331-overview)
+     - [3.3.2 Detecting Memory Leaks](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#332-detecting-memory-leaks)
+     - [3.3.3 Detecting Wild Pointers](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#333-detecting-wild-pointers)
+     - [3.3.4 Analysis of Performance Efficiency](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#334-analysis-of-performance-efficiency)
 4. Chapter 4: Quality Characteristics for Technical Testing
    - [4.1 Sub-Chapter 4.1 Title](link-to-sub-chapter-4.1)
    - [4.2 Sub-Chapter 4.2 Title](link-to-sub-chapter-4.2)
