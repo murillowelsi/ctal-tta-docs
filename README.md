@@ -12,7 +12,7 @@ This guide is designed for those preparing for the Certified Tester Advanced Lev
   - 🤢: Challenging / Found difficult
   - 🤮: Very challenging / Did not understand
 
-## Chapters
+## Table of Contents
 
 1. Chapter 1: The Technical Test Analyst's Tasks in Risk-Based Testing
    - [1.1 Introduction](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.1-introduction.md)
@@ -82,8 +82,19 @@ This guide is designed for those preparing for the Certified Tester Advanced Lev
      - [4.8.2 Coexistence Testing](pages/4-quality-characteristics-for-technical-testing/4.8-compatibility-testing.md#482-coexistence-testing)
    - [4.9 Operational Profiles](pages/4-quality-characteristics-for-technical-testing/4.9-operational-profiles.md)
 5. Chapter 5: Reviews
-   - [5.1 Sub-Chapter 5.1 Title](link-to-sub-chapter-5.1)
-   - [5.2 Sub-Chapter 5.2 Title](link-to-sub-chapter-5.2)
+   - [5.1 Technical Test Analyst Tasks in Reviews](pages/5-reviews/5.1-technical-test-analyst-tasks-in-reviews.md)
+   - [5.2 Using Checklists in Reviews](pages/5-reviews/5.2-using-checklists-in-reviews.md)
+     - [5.2.1 Architectural Reviews](pages/5-reviews/5.2-using-checklists-in-reviews.md#521-architectural-reviews)
+     - [5.2.2 Code Reviews](pages/5-reviews/5.2-using-checklists-in-reviews.md#522-code-reviews)
 6. Chapter 6: Test Tools and Automation
-   - [6.1 Sub-Chapter 6.1 Title](link-to-sub-chapter-6.1)
-   - [6.2 Sub-Chapter 6.2 Title](link-to-sub-chapter-6.2)
+   - [6.1 Defining the Test Automation Project](pages/6-test-tools-and-automation/6.1-defining-the-test-automation-project.md)
+     - [6.1.1 Selecting the Automation Approach](pages/6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#611-selecting-the-automation-approach)
+     - [6.1.2 Modeling Business Processes for Automation](pages/6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#612-modeling-business-processes-for-automation)
+   - [6.2 Specific Test Tools](pages/6-test-tools-and-automation/6.1-defining-the-test-automation-project.md)
+     - [6.2.1 Fault Seeding Tools](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#621-fault-seeding-tools)
+     - [6.2.2 Fault Injection Tools](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#622-fault-injection-tools)
+     - [6.2.3 Performance Testing Tools](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#623-performance-testing-tools)
+     - [6.2.4 Tools for Testing Websites](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#624-tools-for-testing-websites)
+     - [6.2.5 Tools to Support Model-Based Testing](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#625-tools-to-support-model-based-testing)
+     - [6.2.6 Component Testing and Build Tools](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#626-component-testing-and-build-tools)
+     - [6.2.7 Tools to Support Mobile Application Testing](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#627-tools-to-support-mobile-application-testing)
