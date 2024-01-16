@@ -20,7 +20,7 @@ This material was created to assist me in preparing for the Certified Tester Adv
      - [1.2.1 Risk Identification](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.2-risk-based-testing-tasks.md#121-risk-identification)
      - [1.2.2 Risk Assessment](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.2-risk-based-testing-tasks.md#122-risk-assessment)
      - [1.2.3 Risk Mitigation](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.2-risk-based-testing-tasks.md#123-risk-mitigation)
-   - [Return to Top](#table-of-contents)
+   - [↑ Return to Top](#table-of-contents)
 
 ---
 
@@ -33,7 +33,7 @@ This material was created to assist me in preparing for the Certified Tester Adv
    - [2.6 Basis Path Testing](pages/2-white-box-test-techniques/2.6-basis-path-testing.md)
    - [2.7 API Testing](pages/2-white-box-test-techniques/2.7-api-testing.md)
    - [2.8 Selecting a White-Box Test Technique](pages/2-white-box-test-techniques/2.8-selecting-a-white-box-test-technique.md)
-   - [Return to Top](#table-of-contents)
+   - [↑ Return to Top](#table-of-contents)
 
 ---
 
@@ -48,7 +48,7 @@ This material was created to assist me in preparing for the Certified Tester Adv
      - [3.3.2 Detecting Memory Leaks](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#332-detecting-memory-leaks)
      - [3.3.3 Detecting Wild Pointers](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#333-detecting-wild-pointers)
      - [3.3.4 Analysis of Performance Efficiency](pages/3-static-and-dynamic-analysis/3.3-dynamic-analysis.md#334-analysis-of-performance-efficiency)
-   - [Return to Top](#table-of-contents)
+   - [↑ Return to Top](#table-of-contents)
 
 ---
 
@@ -96,7 +96,7 @@ This material was created to assist me in preparing for the Certified Tester Adv
      - [4.8.1 Introduction](pages/4-quality-characteristics-for-technical-testing/4.8-compatibility-testing.md#481-introduction)
      - [4.8.2 Coexistence Testing](pages/4-quality-characteristics-for-technical-testing/4.8-compatibility-testing.md#482-coexistence-testing)
    - [4.9 Operational Profiles](pages/4-quality-characteristics-for-technical-testing/4.9-operational-profiles.md)
-   - [Return to Top](#table-of-contents)
+   - [↑ Return to Top](#table-of-contents)
 
 ---
 
@@ -105,7 +105,7 @@ This material was created to assist me in preparing for the Certified Tester Adv
    - [5.2 Using Checklists in Reviews](pages/5-reviews/5.2-using-checklists-in-reviews.md)
      - [5.2.1 Architectural Reviews](pages/5-reviews/5.2-using-checklists-in-reviews.md#521-architectural-reviews)
      - [5.2.2 Code Reviews](pages/5-reviews/5.2-using-checklists-in-reviews.md#522-code-reviews)
-   - [Return to Top](#table-of-contents)
+   - [↑ Return to Top](#table-of-contents)
 
 ---
 
@@ -121,6 +121,6 @@ This material was created to assist me in preparing for the Certified Tester Adv
      - [6.2.5 Tools to Support Model-Based Testing](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#625-tools-to-support-model-based-testing)
      - [6.2.6 Component Testing and Build Tools](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#626-component-testing-and-build-tools)
      - [6.2.7 Tools to Support Mobile Application Testing](pages/6-test-tools-and-automation/6.2-specific-test-tools.md#627-tools-to-support-mobile-application-testing)
-   - [Return to Top](#table-of-contents)
+   - [↑ Return to Top](#table-of-contents)
 
 ---
