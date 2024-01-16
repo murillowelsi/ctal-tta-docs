@@ -133,3 +133,9 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 - [↑ Return to Top](#table-of-contents)
 
 ---
+
+## License 📝
+
+This project is under [MIT license](LICENSE).
+
+Made with ❤️ by Murillo Welsi 👋🏽 [Reach me at](https://www.linkedin.com/in/murillowelsi/)
