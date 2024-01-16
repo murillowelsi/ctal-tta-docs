@@ -1,6 +1,6 @@
 # CTAL-TTA (Certified Tester Advanced Level Technical Test Analyst)
 
-This material was created to assist me in preparing for the Certified Tester Advanced Level Technical Test Analyst exam. It contains a structured approach to learning, with a specific focus on essential aspects of CTAL-TTA. Each chapter and section comes equipped with a checkbox for monitoring your progress and a space to record the date when you finish your study.
+I've created this material to assist me in preparing for the Certified Tester Advanced Level Technical Test Analyst exam. It contains a structured approach to learning, with a specific focus on essential aspects of CTAL-TTA.
 
 ## How to Use
 
