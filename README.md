@@ -1,6 +1,6 @@
 # CTAL-TTA (Certified Tester Advanced Level Technical Test Analyst)
 
-[![markdown-lint](https://github.com/murillowelsi/ctal-tta-preparation-docs/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/murillowelsi/ctal-tta-preparation-docs/actions/workflows/markdown-lint.yml)
+[![markdown-lint](https://github.com/murillowelsi/ctal-tta-preparation-docs/actions/workflows/markdown-lint.yml/badge.svg?branch=main)](https://github.com/murillowelsi/ctal-tta-preparation-docs/actions/workflows/markdown-lint.yml)
 
 I've created this material to assist me in preparing for the Certified Tester Advanced Level Technical Test Analyst exam. It contains a structured approach to learning, with a specific focus on essential aspects of CTAL-TTA.
 
