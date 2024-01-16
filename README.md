@@ -7,10 +7,13 @@ This material was created to assist me in preparing for the Certified Tester Adv
 - Check off each topic as you complete it.
 - Record the date of completion for each section to track your progress.
 - Rate your understanding of each section using the "Understanding Level" emojis:
-  - 😊: Understood well / Easy
-  - 😐: Somewhat understood / Medium difficulty
-  - 🤢: Challenging / Found difficult
-  - 🤮: Very challenging / Did not understand
+
+  ```markdown
+  😊 Understood well / Easy
+  😐 Somewhat understood / Medium difficulty
+  🤢 Challenging / Found difficult
+  🤮 Very challenging / Did not understand
+  ```
 
 ## Table of Contents
 
