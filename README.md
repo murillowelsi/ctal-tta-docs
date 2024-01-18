@@ -4,6 +4,11 @@
 
 I've created this material to assist me in preparing for the Certified Tester Advanced Level Technical Test Analyst exam. It contains a structured approach to learning, with a specific focus on essential aspects of CTAL-TTA.
 
+## Requirements
+
+- NodeJS.
+- Clone this repository and run `npm i` to install the dependencies.
+
 ## How to Use
 
 - Check off each topic as you complete it.
