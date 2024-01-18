@@ -136,6 +136,5 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 
 ## License 📝
 
-This project is under [MIT license](LICENSE).
-
-Made with ❤️ by Murillo Welsi 👋🏽 [Reach me at](https://www.linkedin.com/in/murillowelsi/)
+- This project is under [MIT license](LICENSE).
+- Made with ❤️ by Murillo Welsi 👋 [Reach me at](https://www.linkedin.com/in/murillowelsi/)
