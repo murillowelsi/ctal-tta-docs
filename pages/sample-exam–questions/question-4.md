@@ -6,24 +6,24 @@
 
 **The simplified logic of a program is as follows:**
 
-    ```
-    Statement P
-    IF A THEN
-        IF B THEN
-            Statement Q
-        ELSE
-            Statement R
-        ENDIF
+```bash
+Statement P
+IF A THEN
+    IF B THEN
+        Statement Q
     ELSE
-        Statement S
-        IF C THEN
-            Statement T
-        ELSE
-            Statement U
-        ENDIF
+        Statement R
     ENDIF
-    Statement V
-    ```
+ELSE
+    Statement S
+    IF C THEN
+        Statement T
+    ELSE
+        Statement U
+    ENDIF
+ENDIF
+Statement V
+```
 
 **Assume that decisions B and C are independent of each other. What is the minimum number of test cases required to achieve 100% decision coverage?**
 

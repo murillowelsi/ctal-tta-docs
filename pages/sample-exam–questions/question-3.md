@@ -6,31 +6,31 @@
 
 **Consider the simplified logic of a tea-making machine:**
 
-    ```
-    Turn on the machine
-    IF enough water THEN
-        Boil water
-        Add tea
-        Show message “milk?”
-        IF milk = yes THEN
-            Show message “low fat?”
-            IF low fat = yes THEN
-                Add low fat milk
-            ELSE
-                Add normal milk
-            ENDIF
+```bash
+Turn on the machine
+IF enough water THEN
+    Boil water
+    Add tea
+    Show message “milk?”
+    IF milk = yes THEN
+        Show message “low fat?”
+        IF low fat = yes THEN
+            Add low fat milk
+        ELSE
+            Add normal milk
         ENDIF
-        Show message “sugar?”
-        IF sugar = yes THEN
-            Add sugar
-        ENDIF
-        Stir
-        Wait 3 minutes
-        Show message “please take your tea”
-    ELSE
-        Show message “please fill up water”
     ENDIF
-    ```
+    Show message “sugar?”
+    IF sugar = yes THEN
+        Add sugar
+    ENDIF
+    Stir
+    Wait 3 minutes
+    Show message “please take your tea”
+ELSE
+    Show message “please fill up water”
+ENDIF
+```
 
 **What is the minimum number of test cases required to achieve 100% statement coverage of the logic for the tea-making machine?**
 
