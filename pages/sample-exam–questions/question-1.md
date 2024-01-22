@@ -6,11 +6,11 @@
 
 **Which of the following are examples of risks that should be considered by the Technical Test Analyst?**
 
-a. A high number of reliability defects were found compared with the previous version
-b. Required updates to the security testing tool database are poorly configured
-c. Documentation from the legacy system to verify the accuracy of computations is lacking
-d. The budget allocated to the testing on the project has been reduced
-e. The change rate of business use cases is higher than expected
+    a. A high number of reliability defects were found compared with the previous version
+    b. Required updates to the security testing tool database are poorly configured
+    c. Documentation from the legacy system to verify the accuracy of computations is lacking
+    d. The budget allocated to the testing on the project has been reduced
+    e. The change rate of business use cases is higher than expected
 
 _Select TWO options._
 
