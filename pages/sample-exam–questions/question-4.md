@@ -6,7 +6,7 @@
 
 **The simplified logic of a program is as follows:**
 
-```bash
+```js
 Statement P
 IF A THEN
     IF B THEN
