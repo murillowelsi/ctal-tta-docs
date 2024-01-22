@@ -12,7 +12,7 @@
     d. The budget allocated to the testing on the project has been reduced
     e. The change rate of business use cases is higher than expected
 
-_Select TWO options._
+**Select TWO options.**
 
 ---
 
