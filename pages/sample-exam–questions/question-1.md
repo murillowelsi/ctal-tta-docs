@@ -20,11 +20,11 @@ _Select TWO options._
 
 #### Correct Answers: a, b
 
-**a. Is correct. A large number of defects relating to technical quality characteristics is a generic risk factor**
-**b. Is correct. Tools and technology is a generic risk factor**
-c. Is not correct. Accuracy of the computations is a concern for the TA, not the TTA
-d. Is not correct. Budgetary issues should be handled by the TM, not the TTA
-e. Is not correct. High change rates in business use cases affect the functionality testing
+    a. Is correct. A large number of defects relating to technical quality characteristics is a generic risk factor
+    b. Is correct. Tools and technology is a generic risk factor
+    c. Is not correct. Accuracy of the computations is a concern for the TA, not the TTA
+    d. Is not correct. Budgetary issues should be handled by the TM, not the TTA
+    e. Is not correct. High change rates in business use cases affect the functionality testing
 
 ---
 
