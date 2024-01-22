@@ -6,7 +6,7 @@
 
 **Consider the simplified logic of a tea-making machine:**
 
-    ```bash
+    ```javascript
     Turn on the machine
     IF enough water THEN
         Boil water
