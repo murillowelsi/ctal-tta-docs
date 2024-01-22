@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## TTA-1.2.1: Risk Assessment
+## TTA-1.2.1: Risk Identification
 
 ### Question #1 (1 Point)
 
@@ -28,4 +28,4 @@
 
 ---
 
-[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](../6-test-tools-and-automation/6.2-specific-test-tools.md) | [Next Page →](6.2-specific-test-tools.md)
+[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](../6-test-tools-and-automation/6.2-specific-test-tools.md) | [Next Page →](question-2.md)
