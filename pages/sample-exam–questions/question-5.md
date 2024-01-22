@@ -39,4 +39,4 @@ The first test exercises decision outcomes `1→2, 2→3, 2→4, 4→2, 4→6, 6
 
 ---
 
-[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-3.md) | [Next Page →](question-5.md)
+[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-4.md) | [Next Page →](question-6.md)
