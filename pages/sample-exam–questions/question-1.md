@@ -2,7 +2,7 @@
 
 ## [TTA-1.2.1: Risk Identification](../1-technical-test-analysts-tasks-in-risk-based-testing/1.2-risk-based-testing-tasks.md#121-risk-identification)
 
-### Question #1 (1 Point)
+### Question #1 (1 Point) - K2
 
 **Which of the following are examples of risks that should be considered by the Technical Test Analyst?**
 

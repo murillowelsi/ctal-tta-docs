@@ -2,7 +2,7 @@
 
 ## [TTA-2.2: Statement Testing](../2-white-box-test-techniques/2.2-statement-testing.md)
 
-### Question #3 (2 Point)
+### Question #3 (2 Point) - K3
 
 **Consider the simplified logic of a tea-making machine:**
 
