@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## TTA-2.2: Statement Testing
+## [TTA-2.2: Statement Testing](../2-white-box-test-techniques/2.2-statement-testing.md)
 
 ### Question #3 (2 Point)
 

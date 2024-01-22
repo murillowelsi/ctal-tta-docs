@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## TTA-1.2.2: Risk Assessment
+## [TTA-1.2.2: Risk Assessment](../1-technical-test-analysts-tasks-in-risk-based-testing/1.2-risk-based-testing-tasks.md#122-risk-assessment)
 
 ### Question #2 (1 Point)
 
