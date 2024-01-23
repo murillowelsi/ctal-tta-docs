@@ -135,7 +135,7 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 
 ---
 
-**[Sample Exam: Questions](pages/sample-exam–questions/question-1.md)**
+**[Sample Exam: Questions](pages/sample-exam–questions/question-1.md#technical-test-analyst-exam)**
 
 - [Question #1](pages/sample-exam–questions/question-1.md)
 - [Question #2](pages/sample-exam–questions/question-2.md)
