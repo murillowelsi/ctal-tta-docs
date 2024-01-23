@@ -19,7 +19,7 @@
 
 ### Answer
 
-#### Correct Answers: b
+#### Correct Answer: b
 
     a. Is not correct. Adaptability testing checks whether a given application can function correctly in all intended target environments
     b. Is correct. Replaceability testing focuses on the ability of software components (such as databases) to replace existing components

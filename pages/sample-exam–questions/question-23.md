@@ -17,7 +17,7 @@
 
 ### Answer
 
-#### Correct Answers: a
+#### Correct Answer: a
 
     a. Is correct. Because reliability tests often require use of the entire system, reliability testing is most commonly performed as part of system testing
     b. Is not correct. Co-existence issues should be analyzed when planning the targeted production environment, but the actual tests are normally performed after system and user acceptance testing have been successfully completed

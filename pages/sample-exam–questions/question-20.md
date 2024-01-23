@@ -19,7 +19,7 @@
 
 ### Answer
 
-#### Correct Answers: a
+#### Correct Answer: a
 
     a. Is correct. Fault-tolerance testing is part of reliability
     b. Is not correct. We are not worried about response time, throughput, or resource utilization here

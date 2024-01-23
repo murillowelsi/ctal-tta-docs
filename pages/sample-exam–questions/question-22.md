@@ -17,7 +17,7 @@
 
 ### Answer
 
-#### Correct Answers: d
+#### Correct Answer: d
 
     a. Is not correct. Performing turnaround time tests before a production-like test environment is available is not practical as any times recorded will be unlikely to be representative of the operational turnaround times
     b. Is not correct. Once the system is operational, the operational data can be used to determine availability, and so availability testing using operational profiles is unnecessary
