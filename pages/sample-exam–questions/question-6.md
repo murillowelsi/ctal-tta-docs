@@ -1,8 +1,8 @@
 # Technical Test Analyst Exam
 
-## [TTA-2.3: Decision Testing](../2-white-box-test-techniques/2.3-decision-testing.md)
+## [TTA-2.4: Modified Condition/Decision Testing](../2-white-box-test-techniques/2.4-modified-condition-decision-testing.md)
 
-### Question #6 (2 Point) - K3
+### Question #6 (2 Points) - K3
 
 **You are testing a photo-enforcement system for traffic control at an intersection. The requirements state a photo shall be taken if the signal light is red (RED), or the car is speeding (SPEED), and if the front wheels of the car are over the line marking the beginning of the intersection (WHEELS). The logic in the code looks like the following:**
 
@@ -55,4 +55,4 @@ ENDIF
 
 ---
 
-[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-4.md) | [Next Page →](question-6.md)
+[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-5.md) | [Next Page →](question-7.md)

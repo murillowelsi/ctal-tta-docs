@@ -2,7 +2,7 @@
 
 ## [TTA-2.3: Decision Testing](../2-white-box-test-techniques/2.3-decision-testing.md)
 
-### Question #4 (2 Point) - K3
+### Question #4 (2 Points) - K3
 
 **The simplified logic of a program is as follows:**
 
