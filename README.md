@@ -135,6 +135,56 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 
 ---
 
+**[Sample Exam – Questions](pages/sample-exam–questions/question-1.md)**
+
+- [Question #1](pages/sample-exam–questions/question-1.md)
+- [Question #2](pages/sample-exam–questions/question-2.md)
+- [Question #3](pages/sample-exam–questions/question-3.md)
+- [Question #4](pages/sample-exam–questions/question-4.md)
+- [Question #5](pages/sample-exam–questions/question-5.md)
+- [Question #6](pages/sample-exam–questions/question-6.md)
+- [Question #7](pages/sample-exam–questions/question-7.md)
+- [Question #8](pages/sample-exam–questions/question-8.md)
+- [Question #9](pages/sample-exam–questions/question-9.md)
+- [Question #10](pages/sample-exam–questions/question-10.md)
+- [Question #11](pages/sample-exam–questions/question-11.md)
+- [Question #12](pages/sample-exam–questions/question-12.md)
+- [Question #13](pages/sample-exam–questions/question-13.md)
+- [Question #14](pages/sample-exam–questions/question-14.md)
+- [Question #15](pages/sample-exam–questions/question-15.md)
+- [Question #16](pages/sample-exam–questions/question-16.md)
+- [Question #17](pages/sample-exam–questions/question-17.md)
+- [Question #18](pages/sample-exam–questions/question-18.md)
+- [Question #19](pages/sample-exam–questions/question-19.md)
+- [Question #20](pages/sample-exam–questions/question-20.md)
+- [Question #21](pages/sample-exam–questions/question-21.md)
+- [Question #22](pages/sample-exam–questions/question-22.md)
+- [Question #23](pages/sample-exam–questions/question-23.md)
+- [Question #24](pages/sample-exam–questions/question-24.md)
+- [Question #25](pages/sample-exam–questions/question-25.md)
+- [Question #26](pages/sample-exam–questions/question-26.md)
+- [Question #27](pages/sample-exam–questions/question-27.md)
+- [Question #28](pages/sample-exam–questions/question-28.md)
+- [Question #29](pages/sample-exam–questions/question-29.md)
+- [Question #30](pages/sample-exam–questions/question-30.md)
+- [Question #31](pages/sample-exam–questions/question-31.md)
+- [Question #32](pages/sample-exam–questions/question-32.md)
+- [Question #33](pages/sample-exam–questions/question-33.md)
+- [Question #34](pages/sample-exam–questions/question-34.md)
+- [Question #35](pages/sample-exam–questions/question-35.md)
+- [Question #36](pages/sample-exam–questions/question-36.md)
+- [Question #37](pages/sample-exam–questions/question-37.md)
+- [Question #38](pages/sample-exam–questions/question-38.md)
+- [Question #39](pages/sample-exam–questions/question-39.md)
+- [Question #40](pages/sample-exam–questions/question-40.md)
+- [Question #41](pages/sample-exam–questions/question-41.md)
+- [Question #42](pages/sample-exam–questions/question-42.md)
+- [Question #43](pages/sample-exam–questions/question-43.md)
+- [Question #44](pages/sample-exam–questions/question-44.md)
+- [Question #45](pages/sample-exam–questions/question-45.md)
+
+---
+
 - [↑ Return to Top](#table-of-contents)
 
 ---
