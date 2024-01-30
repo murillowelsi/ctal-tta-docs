@@ -1,29 +1,45 @@
 # Technical Test Analyst Exam
 
-## [TTA-3.2.3: Using Static Analysis for Improving Maintainability](../3-static-and-dynamic-analysis/3.2-static-analysis.md#323-using-static-analysis-for-improving-maintainability)
+## [TTA-3.2.1: Data Flow Analysis](../3-static-and-dynamic-analysis/3.2-static-analysis.md#322-data-flow-analysis)
 
 ### Question #14 (2 Points) - K3
 
-You have been provided with the following system-wide average measures for the four systems, W, X, Y and Z, using static code analysis.
+You have been asked to analyze the following program that calculates a sales commission:
 
     ```markdown
-    | Metric                         |   W   |   X   |   Y   |   Z   |
-    |:------------------------------:|:-----:|:-----:|:-----:|:-----:|
-    | Cyclomatic Complexity (CC)     |  23   |   8   |  12   |   7   |
-    | Cohesion (CH)                  | High  | Medium| Low   | High  |
-    | Coupling (CP)                  | Low   | High  | Medium| Medium|
-    | Commented Code (CO)            |  60%  |  10%  |  45%  |   8%  |
-    | Repeated code instances (RE)   |   9   |   2   |   3   |  12   |
+        PROGRAM Commission
+        barrels, totalBarrels : INTEGER
+        price, sales, commission : REAL
+
+    1   price = 35.0
+    2   totalBarrels = 0
+    3   INPUT(barrels)
+    4   WHILE NOT(barrels == -1) DO
+    5       totalBarrels = totalBarrels + barrels
+    6       INPUT(barrels)
+    7   ENDWHILE
+    8   sales = price * totalBarrels
+    9   IF (sales > 1800.0)
+    10      commission = 0.10 * 1000.0 + 0.15 * 800.0
+    11      commission = commission + 0.20 * (sales - 1800.0)
+    12  ELSE IF (sales > 1000.0)
+    13      commission = 0.10 * 1000.0
+    14      commission = 0.15 * (sales - 1000)
+    15  ELSE
+    16      commission = 0.10 * sales
+    17  ENDIF
+    18  totalBarrels = 0
+    19  barrels = 0
+    20  OUTPUT("Total commission = ", commission)
+    21  END PROGRAM
     ```
 
-Budget is available to improve the maintainability of the code in each of the four systems by applying the results of static analysis to the individual components.
+**Which pair of lines represents a data flow anomaly?**
 
-**Which of the following is the BEST way to improve maintainability of the code if you can address only two metrics per system?**
-
-    a. W – CO, RE X – CC, CH Y – CP, CO Z – CC, RE
-    b. W – CC, CP X – CH, CO Y – CC, CH Z – CO, RE
-    c. W – CC, RE X – CP, CO Y – CC, CH Z – CO, RE
-    d. W – CH, CO X – CC, RE Y – CP, RE Z – CC, CH
+    a. 8–9
+    b. 3–19
+    c. 2–18
+    d. 13–14
 
 **Select ONE option.**
 
@@ -33,23 +49,12 @@ Budget is available to improve the maintainability of the code in each of the fo
 
 #### Correct Answer: d
 
-**Cyclomatic Complexity (CC)** indicates the number of independent paths tough the code. - The higher the CC number, the worse code maintainability is likely to be, hence system W and Y should be addressed in this area.
-
-**Cohesion (CH)** is a measure to which a module is self-contained and focused on a single task. - The lower it is, the worse the code maintainability is likely to be. Hence system Y should be addressed in this area.
-
-**Coupling (CP)** is a measure of the degree to which modules rely on each other. - The higher it is, the worse the code maintainability is likely to be. Hence system X should be addressed in this area.
-
-**Commented Code (CO)** indicates how much of the code is documented by comments. - Less comments indicates worse code maintainability. Hence systems X and Z should be addressed in this area.
-
-**Repeated code instances (RE)** count how many code instances are duplicated. - The higher the number, the worse the code maintainability is likely to be. Hence systems W and Z should be addressed in this area.
-
-Thus:
-
-    a. Is not correct
-    b. Is not correct
-    c. Is correct (W – CC & RE, X – CP & CO, Y – CC & CH, Z – CO & RE)
-    d. Is not correct
+    a. Is not correct. This pair represents a correct definition-use (du) sequence for sales
+    b. Is not correct. Barrels is defined at line 3 and used at line 4, so the definition at line 19 takes place after a use. A use then definition
+    sequence is not an anomaly
+    c. Is not correct. totalBarrels is defined at line 2, then may be used at line 5, and is used at line 8, so the definition at line 18 takes place after a use of totalBarrels – a use then definition sequence is not an anomaly
+    d. Is correct. At line 13 commission is defined and then in line 14 it is defined again, without any use between these two definitions. This is a definition-definition sequence, which is an anomaly
 
 ---
 
-[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-14.md) | [Next Page →](question-16.md)
+[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-13.md) | [Next Page →](question-15.md)
