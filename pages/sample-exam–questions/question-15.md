@@ -30,7 +30,7 @@ Budget is available to improve the maintainability of the code in each of the fo
 <details>
 <summary><strong>Show Result</strong></summary>
 
-#### Correct Answer: d
+#### Correct Answer: c
 
 **Cyclomatic Complexity (CC)** indicates the number of independent paths tough the code. - The higher the CC number, the worse code maintainability is likely to be, hence system W and Y should be addressed in this area.
 
@@ -46,7 +46,7 @@ Thus:
 
     a. Is not correct
     b. Is not correct
-    c. Is correct (W – CC & RE, X – CP & CO, Y – CC & CH, Z – CO & RE)
+    c. Is correct (W – CC, RE | X – CP, CO | Y – CC, CH | Z – CO, RE)
     d. Is not correct
 
 </details>
