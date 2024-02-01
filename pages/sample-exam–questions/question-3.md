@@ -48,10 +48,13 @@ ENDIF
 
 #### Correct Answer: a
 
-    a. Is not correct. The TA would be expected to work with users
-    b. Is not correct. The TA would be expected to work with business analysts
-    c. Is not correct. The TA would be expected to work with project sponsors
-    d. Is correct. The TTA is expected to work with the technical stakeholders on the project, including the developers
+    a. Is correct. The three test cases are defined by the following inputs:
+        - Enough water, low fat milk, sugar
+        - Enough water, normal milk, sugar or not sugar
+        - Not enough water
+    b. Is not correct. With two tests, one of the paths covered by the tests of answer (a) will be missed, and the lines of code in this path will not be tested – failing to achieve 100% statement coverage
+    c. Is not correct. The question asked for the minimal number of tests to achieve 100% statement coverage. This can be achieved with 3 tests, as shown in (a)
+    d. Is not correct. The question asked for the minimal number of tests to achieve 100% statement coverage. This can be achieved with 3 tests,as shown in (a)
 
 </details>
 
