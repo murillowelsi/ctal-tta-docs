@@ -6,7 +6,7 @@
 
 Below is the pseudo-code for a TRICKY program:
 
-````pseudo
+```pseudo
 0 program TRICKY
 1 var1, var2, var3 : integer
 2 begin
@@ -58,4 +58,3 @@ Below is the pseudo-code for a TRICKY program:
 ---
 
 [↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](question-15.md) | [Next Page →](question-17.md)
-````
