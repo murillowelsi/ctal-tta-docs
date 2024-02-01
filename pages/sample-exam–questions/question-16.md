@@ -28,7 +28,7 @@ Below is the pseudo-code for a TRICKY program:
 18   print(“But the answer is...”)
 19   print(var2+var1)
 20 end program TRICKY
-    ```
+```
 
 **Which TWO fixes to improve code maintainability would MOST likely be proposed after performing static analysis?**
 
