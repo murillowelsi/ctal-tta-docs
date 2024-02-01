@@ -6,25 +6,25 @@
 
 Below is the pseudo-code for a program that calculates and prints sales commissions:
 
-    ```pseudo
-    0  program Calculate Commission
-    1  total, number : integer
-    2  commission_hi, commission_lo : real
-    3  begin
-    4      read(number)
-    5      while (number ≠ -1) loop
-    6          total = total + number
-    7          read(number)
-    8      endloop
-    9      if (total > 1000) then
-    10         commission_hi = 100 + 0.2 * (total - 1000)
-    11     else
-    12         commission_lo = 0.15 * total
-    13     endif
-    14     write("This salesman’s commission is:")
-    15     write(commission_hi)
-    16  end program Calculate Commission
-    ```
+```pseudo
+0  program Calculate Commission
+1  total, number : integer
+2  commission_hi, commission_lo : real
+3  begin
+4      read(number)
+5      while (number ≠ -1) loop
+6          total = total + number
+7          read(number)
+8      endloop
+9      if (total > 1000) then
+10         commission_hi = 100 + 0.2 * (total - 1000)
+11     else
+12         commission_lo = 0.15 * total
+13     endif
+14     write("This salesman’s commission is:")
+15     write(commission_hi)
+16  end program Calculate Commission
+```
 
 **The code contains data flow anomalies on lines 6 and 12 (highlighted text). Which examples of data flow anomalies can be found on these lines?**
 
