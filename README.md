@@ -183,12 +183,12 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 - [Question #44](pages/questions/sample-exam/question-44.md)
 - [Question #45](pages/questions/sample-exam/question-45.md)
 
-**[Aditional Questions](pages/questions/additional/question-1.md)**
+**[Additional Questions](pages/questions/sample-exam-additional/question-1.md)**
 
-- [Question #X1](pages/questions/additional/question-1.md)
-- [Question #X2](pages/questions/additional/question-2.md)
-- [Question #X3](pages/questions/additional/question-3.md)
-- [Question #X4](pages/questions/additional/question-4.md)
+- [Question #X1](pages/questions/sample-exam-additional/question-1.md)
+- [Question #X2](pages/questions/sample-exam-additional/question-2.md)
+- [Question #X3](pages/questions/sample-exam-additional/question-3.md)
+- [Question #X4](pages/questions/sample-exam-additional/question-4.md)
 
 ---
 
