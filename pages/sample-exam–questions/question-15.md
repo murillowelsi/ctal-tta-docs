@@ -6,15 +6,15 @@
 
 You have been provided with the following system-wide average measures for the four systems, W, X, Y and Z, using static code analysis.
 
-    ```markdown
-    | Metric                         |   W   |   X   |   Y   |   Z   |
-    |:------------------------------:|:-----:|:-----:|:-----:|:-----:|
-    | Cyclomatic Complexity (CC)     |  23   |   8   |  12   |   7   |
-    | Cohesion (CH)                  | High  | Medium| Low   | High  |
-    | Coupling (CP)                  | Low   | High  | Medium| Medium|
-    | Commented Code (CO)            |  60%  |  10%  |  45%  |   8%  |
-    | Repeated code instances (RE)   |   9   |   2   |   3   |  12   |
-    ```
+```markdown
+|            Metric            |  W   |   X    |   Y    |   Z    |
+| :--------------------------: | :--: | :----: | :----: | :----: |
+|  Cyclomatic Complexity (CC)  |  23  |   8    |   12   |   7    |
+|        Cohesion (CH)         | High | Medium |  Low   |  High  |
+|        Coupling (CP)         | Low  |  High  | Medium | Medium |
+|     Commented Code (CO)      | 60%  |  10%   |  45%   |   8%   |
+| Repeated code instances (RE) |  9   |   2    |   3    |   12   |
+```
 
 Budget is available to improve the maintainability of the code in each of the four systems by applying the results of static analysis to the individual components.
 
