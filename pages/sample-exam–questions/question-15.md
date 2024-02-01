@@ -18,10 +18,10 @@ Budget is available to improve the maintainability of the code in each of the fo
 
 **Which of the following is the BEST way to improve maintainability of the code if you can address only two metrics per system?**
 
-    a. W – CO, RE X – CC, CH Y – CP, CO Z – CC, RE
-    b. W – CC, CP X – CH, CO Y – CC, CH Z – CO, RE
-    c. W – CC, RE X – CP, CO Y – CC, CH Z – CO, RE
-    d. W – CH, CO X – CC, RE Y – CP, RE Z – CC, CH
+    a. W – CO, RE | X – CC, CH | Y – CP, CO | Z – CC, RE
+    b. W – CC, CP | X – CH, CO | Y – CC, CH | Z – CO, RE
+    c. W – CC, RE | X – CP, CO | Y – CC, CH | Z – CO, RE
+    d. W – CH, CO | X – CC, RE | Y – CP, RE | Z – CC, CH
 
 **Select ONE option.**
 
