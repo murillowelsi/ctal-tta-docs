@@ -25,8 +25,7 @@
     b. Is not correct. This describes a debugger
     c. Is not correct. This describes a fault seeding tool
     d. Is correct. Tools for testing websites may include the functionality to check for violations of accessibility standards, such as Section 508 in the U.S. or M/376 in Europe
-    e. Is correct. Tools for testing websites may include the functionality to scan through server code, checking for orphaned (unlinked) files
-    previously accessed by the website
+    e. Is correct. Tools for testing websites may include the functionality to scan through server code, checking for orphaned (unlinked) files previously accessed by the website
 
 </details>
 

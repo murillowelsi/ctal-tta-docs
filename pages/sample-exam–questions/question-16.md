@@ -47,8 +47,7 @@ Below is the pseudo-code for a TRICKY program:
 
 #### Correct Answer: b, d
 
-    a. Is not correct. The code is clearly structured with control elements (e.g., loop, if-then-else). Static analysis is unlikely to identify any
-    improvements to the control structure
+    a. Is not correct. The code is clearly structured with control elements (e.g., loop, if-then-else). Static analysis is unlikely to identify any improvements to the control structure
     b. Is correct. Variable naming used in the program does not clearly indicate what the variable represents. Static analysis can apply naming convention rules which would identify these maintenance issues in the program and recommend that the variables be given names that are readable and conform to any applicable naming rules
     c. Is not correct. There are no global variables defined and no other programs called. Coupling is not an improvement area
     d. Is correct. Static analysis identifies code which has a low level of commenting compared to executable code. Since the program has no comments at all, this would be highlighted as an area for improving code maintainability

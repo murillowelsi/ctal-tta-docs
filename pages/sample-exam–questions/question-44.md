@@ -21,8 +21,7 @@
 #### Correct Answer: c
 
     a. Is not correct. According to the syllabus, component tests are executed by other tools after build is completed
-    b. Is not correct. The statement about component test tools is true, especially with Java. The statement about build automation tools is not
-    correct. Component test execution is triggered after build completion, by other tools
+    b. Is not correct. The statement about component test tools is true, especially with Java. The statement about build automation tools is not correct. Component test execution is triggered after build completion, by other tools
     c. Is correct. Both statements are true
     d. Is not correct. Most component testing tools are language-specific, and the build must be done before component test execution
 

@@ -21,8 +21,7 @@
 #### Correct Answer: d, e
 
     a. Is correct. The required behavior represented in the model (e.g., state model, Petri Net) is typically used to automatically generate many test cases corresponding to the required behavior
-    b. Is not correct. MBT tools do execute the model of the test object’s behavior, but they do this to generate test cases which are then
-    executed on the test object to identify defects
+    b. Is not correct. MBT tools do execute the model of the test object’s behavior, but they do this to generate test cases which are then executed on the test object to identify defects
     c. Is not correct. MBT tools use a model of required behavior, not an internal view of the test object, to generate test cases
     d. Is not correct. MBT tools generate test cases to achieve a level of coverage of the model of required behavior, rather than of the test
     object source code (to which they have no access)

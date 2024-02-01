@@ -51,8 +51,7 @@ You have been asked to analyze the following program that calculates a sales com
 #### Correct Answer: d
 
     a. Is not correct. This pair represents a correct definition-use (du) sequence for sales
-    b. Is not correct. Barrels is defined at line 3 and used at line 4, so the definition at line 19 takes place after a use. A use then definition
-    sequence is not an anomaly
+    b. Is not correct. Barrels is defined at line 3 and used at line 4, so the definition at line 19 takes place after a use. A use then definition sequence is not an anomaly
     c. Is not correct. totalBarrels is defined at line 2, then may be used at line 5, and is used at line 8, so the definition at line 18 takes place after a use of totalBarrels – a use then definition sequence is not an anomaly
     d. Is correct. At line 13 commission is defined and then in line 14 it is defined again, without any use between these two definitions. This is a definition-definition sequence, which is an anomaly
 

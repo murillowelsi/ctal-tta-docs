@@ -21,11 +21,9 @@
 #### Correct Answer: d
 
     a. Is not correct. An emulator is not restricted to initial functional tests – it can also be used for tests later in the life cycle, and for non-functional tests
-    b. Is not correct. An emulator may allow functional as well as nonfunctional tests. Although most usability testing will and should be done
-    on real devices, early usability tests such as a heuristic evaluation might be done using an emulator
+    b. Is not correct. An emulator may allow functional as well as nonfunctional tests. Although most usability testing will and should be done on real devices, early usability tests such as a heuristic evaluation might be done using an emulator
     c. Is not correct. Versions that run on an emulator should also run on the real devic
-    d. Is correct. The purpose of an emulator is to test device-specific behaviour of an application as early as possible – even if the device is
-    not available to the tester
+    d. Is correct. The purpose of an emulator is to test device-specific behaviour of an application as early as possible – even if the device is not available to the tester
 
 </details>
 
