@@ -6,33 +6,33 @@
 
 You have been asked to analyze the following program that calculates a sales commission:
 
-    ```markdown
-        PROGRAM Commission
-        barrels, totalBarrels : INTEGER
-        price, sales, commission : REAL
+```pseudo
+    PROGRAM Commission
+    barrels, totalBarrels : INTEGER
+    price, sales, commission : REAL
 
-    1   price = 35.0
-    2   totalBarrels = 0
-    3   INPUT(barrels)
-    4   WHILE NOT(barrels == -1) DO
-    5       totalBarrels = totalBarrels + barrels
-    6       INPUT(barrels)
-    7   ENDWHILE
-    8   sales = price * totalBarrels
-    9   IF (sales > 1800.0)
-    10      commission = 0.10 * 1000.0 + 0.15 * 800.0
-    11      commission = commission + 0.20 * (sales - 1800.0)
-    12  ELSE IF (sales > 1000.0)
-    13      commission = 0.10 * 1000.0
-    14      commission = 0.15 * (sales - 1000)
-    15  ELSE
-    16      commission = 0.10 * sales
-    17  ENDIF
-    18  totalBarrels = 0
-    19  barrels = 0
-    20  OUTPUT("Total commission = ", commission)
-    21  END PROGRAM
-    ```
+1   price = 35.0
+2   totalBarrels = 0
+3   INPUT(barrels)
+4   WHILE NOT(barrels == -1) DO
+5       totalBarrels = totalBarrels + barrels
+6       INPUT(barrels)
+7   ENDWHILE
+8   sales = price * totalBarrels
+9   IF (sales > 1800.0)
+10      commission = 0.10 * 1000.0 + 0.15 * 800.0
+11      commission = commission + 0.20 * (sales - 1800.0)
+12  ELSE IF (sales > 1000.0)
+13      commission = 0.10 * 1000.0
+14      commission = 0.15 * (sales - 1000)
+15  ELSE
+16      commission = 0.10 * sales
+17  ENDIF
+18  totalBarrels = 0
+19  barrels = 0
+20  OUTPUT("Total commission = ", commission)
+21  END PROGRAM
+```
 
 **Which pair of lines represents a data flow anomaly?**
 
