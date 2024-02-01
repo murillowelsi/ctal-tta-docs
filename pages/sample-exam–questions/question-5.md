@@ -4,7 +4,7 @@
 
 ### Question #5 (2 Points) - K3
 
-**You are testing code whose control flow graph is presented below. Node 1 is the entry point and node 9 is the exit point.**
+You are testing code whose control flow graph is presented below. Node 1 is the entry point and node 9 is the exit point.
 
 ![Alt text](../../resources/images/question-5.png)
 

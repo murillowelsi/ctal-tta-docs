@@ -4,7 +4,7 @@
 
 ### Question #20 (2 Points) - K3
 
-**Consider the following product risk: Abnormal application termination due to network connection failure.**
+Consider the following product risk: Abnormal application termination due to network connection failure.
 
 **Which of the following is the MOST appropriate test type to address this risk?**
 

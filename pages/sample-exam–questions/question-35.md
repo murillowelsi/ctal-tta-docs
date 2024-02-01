@@ -37,7 +37,6 @@ You are participating in a code review and have noticed a problem in the followi
 23        Write (average_sales)
 24     endif
 25 end program SALES
-
 ```
 
 **Which of the following problems is demonstrated in this section of code?**

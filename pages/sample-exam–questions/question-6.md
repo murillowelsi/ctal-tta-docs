@@ -4,7 +4,7 @@
 
 ### Question #6 (2 Points) - K3
 
-**You are testing a photo-enforcement system for traffic control at an intersection. The requirements state a photo shall be taken if the signal light is red (RED), or the car is speeding (SPEED), and if the front wheels of the car are over the line marking the beginning of the intersection (WHEELS). The logic in the code looks like the following:**
+You are testing a photo-enforcement system for traffic control at an intersection. The requirements state a photo shall be taken if the signal light is red (RED), or the car is speeding (SPEED), and if the front wheels of the car are over the line marking the beginning of the intersection (WHEELS). The logic in the code looks like the following:
 
 ```javascript
 IF ((RED OR SPEED) AND WHEELS) THEN
@@ -14,7 +14,7 @@ ELSE
 ENDIF
 ```
 
-**Consider these test input values:**
+Consider these test input values:
 
     1. RED + SPEED + WHEELS
     2. RED + SPEED + not WHEELS

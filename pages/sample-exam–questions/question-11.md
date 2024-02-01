@@ -4,7 +4,7 @@
 
 ### Question #11 (2 Points) - K3
 
-**Below is the pseudo-code for a TRICKY program:**
+Below is the pseudo-code for a TRICKY program:
 
 ```pesudo
 0   program TRICKY

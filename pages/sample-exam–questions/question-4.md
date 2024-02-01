@@ -4,7 +4,7 @@
 
 ### Question #4 (2 Points) - K3
 
-**The simplified logic of a program is as follows:**
+The simplified logic of a program is as follows:
 
 ```js
 Statement P

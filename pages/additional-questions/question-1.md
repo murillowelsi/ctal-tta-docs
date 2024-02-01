@@ -6,7 +6,9 @@
 
 TTA-4.3.1 (K2) Explain the reasons for including security testing in a test approach
 
-**A new personal banking system is to be developed for use on mobile devices. Which ONE of the following options is valid reason to include security testing in the test approach?**
+A new personal banking system is to be developed for use on mobile devices.
+
+**Which ONE of the following options is valid reason to include security testing in the test approach?**
 
     a. Ensuring that automated mobile app updates do not block users from accessing their accounts
     b. Ensuring that no confidential information is left in temporary files on the phone’s SIM card memory

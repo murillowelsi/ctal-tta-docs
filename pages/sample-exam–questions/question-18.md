@@ -4,7 +4,7 @@
 
 ### Question #18 (3 Points) - K4
 
-**Assume you are working as a Technical Test Analyst on a project where a new banking system is being developed. This system will store customer financial data, including personal information, account numbers, balances, and transaction histories, but no real customer data will become available until after the system is deployed operationally.**
+Assume you are working as a Technical Test Analyst on a project where a new banking system is being developed. This system will store customer financial data, including personal information, account numbers, balances, and transaction histories, but no real customer data will become available until after the system is deployed operationally.
 
 **Based on this information, which of the following topics are you MOST likely to include in the system test plan?**
 

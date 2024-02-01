@@ -4,7 +4,7 @@
 
 ### Question #3 (2 Points) - K3
 
-**Consider the simplified logic of a tea-making machine:**
+Consider the simplified logic of a tea-making machine:
 
 ```js
 Turn on the machine

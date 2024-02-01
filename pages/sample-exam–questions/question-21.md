@@ -4,7 +4,7 @@
 
 ### Question #21 (2 Points) - K3
 
-**Consider the following product risk: “The new database is not suitable for replacing the current one”.**
+Consider the following product risk: “The new database is not suitable for replacing the current one”.
 
 **Which of the following is the MOST appropriate test type to address this risk?**
 

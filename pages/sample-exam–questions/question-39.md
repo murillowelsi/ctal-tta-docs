@@ -11,7 +11,9 @@ configuration management system.
 
 Your manager directs you to help her select a test execution automation tool to automate most of the regression testing.
 
-**Assume you are using a keyword-driven automation approach. Which of the options would be the MOST LIKELY keywords for this application?**
+Assume you are using a keyword-driven automation approach.
+
+**Which of the options would be the MOST LIKELY keywords for this application?**
 
     a. Enter_Test_Data
     b. Remove_Test_Data

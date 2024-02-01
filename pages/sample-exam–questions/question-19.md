@@ -4,11 +4,9 @@
 
 ### Question #19 (3 Points) - K4
 
-**Assume you are working as a Technical Test Analyst on the system integration testing of the baggage handling system for a major airport. Most of the system components are developed by a main contractor, but the system components for baggage redirection and for handling outsized items are being developed off-shore by separate organizations.**
-
-**The airport operator is the customer for the project and has indicated that the system must run fast even under peak morning and evening loads.**
-
-**A fully representative test environment has been made available for the system integration tests and a specialist tools team has been set up to support the functional and nonfunctional testing. Some of the functional tests for systems integration have already been implemented but progress is slow.**
+Assume you are working as a Technical Test Analyst on the system integration testing of the baggage handling system for a major airport. Most of the system components are developed by a main contractor, but the system components for baggage redirection and for handling outsized items are being developed off-shore by separate organizations.
+The airport operator is the customer for the project and has indicated that the system must run fast even under peak morning and evening loads.
+A fully representative test environment has been made available for the system integration tests and a specialist tools team has been set up to support the functional and nonfunctional testing. Some of the functional tests for systems integration have already been implemented but progress is slow.
 
 **Based on this information, which of the following topics are you MOST likely to include in the system test plan?**
 

@@ -4,7 +4,7 @@
 
 ### Question #30 (1 Point) - K2
 
-**You work as a tester in a company that develops a desktop financial application for accountants. The users reported problems with the following scenario, and you have been tasked with testing the fix.**
+You work as a tester in a company that develops a desktop financial application for accountants. The users reported problems with the following scenario, and you have been tasked with testing the fix.
 
 - Download app from the producer website
 - Install it using the installation wizard
