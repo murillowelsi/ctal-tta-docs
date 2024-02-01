@@ -24,8 +24,7 @@ decision in the module under test consists of 20 independent atomic conditions. 
 #### Correct Answer: b
 
     a. Is not correct. Multiple condition testing is the most thorough technique, but for a decision with 20 independent atomic conditions we would have to design 220 = 1,048,576 tests to achieve full multiple condition coverage, which would be impossible to finish in one month (if at all)
-    b. Is correct. This is a medical, safety-critical system, whose failure or malfunction may result in death or serious injury to people. Therefore, it must be tested thoroughly. Full multiple condition coverage is impossible to achieve (see answer a), hence, MC/DC is the most
-    reasonable choice as it is stronger than decision testing, but, compared to multiple condition testing, requires only a linear number of test cases – for example, the decision with 20 conditions requires only 21 test cases to achieve full MC/DC coverage
+    b. Is correct. This is a medical, safety-critical system, whose failure or malfunction may result in death or serious injury to people. Therefore, it must be tested thoroughly. Full multiple condition coverage is impossible to achieve (see answer a), hence, MC/DC is the most reasonable choice as it is stronger than decision testing, but,compared to multiple condition testing, requires only a linear number of test cases – for example, the decision with 20 conditions requires only 21 test cases to achieve full MC/DC coverage
     c. Is not correct. Decision testing is a relatively weak criterion compared to MC/DC, and so not suitable for a safety-critical system
     d. Is not correct. There is no information about API in this scenario. Also, this would not guarantee the thorough level of testing required for such a safety-critical system
 
