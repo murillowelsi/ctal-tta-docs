@@ -8,7 +8,7 @@ Assume you are working as a Technical Test Analyst on the system integration tes
 The airport operator is the customer for the project and has indicated that the system must run fast even under peak morning and evening loads.
 A fully representative test environment has been made available for the system integration tests and a specialist tools team has been set up to support the functional and nonfunctional testing. Some of the functional tests for systems integration have already been implemented but progress is slow.
 
-**Based on this information, which of the following topics are you MOST likely to include in the system test plan?**
+**Based on this information, which of the following topics are you MOST likely to identify as risks in the system integration test plan?**
 
     a. Stakeholder requirements
     b. Required tool acquisition and training
