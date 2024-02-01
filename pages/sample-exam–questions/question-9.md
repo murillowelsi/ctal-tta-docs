@@ -23,11 +23,9 @@ You are the Technical Test Analyst working on the testing of software that will 
 #### Correct Answer: d
 
     a. Is not correct. This is the same as MC/DC, because decision coverage is subsumed by MC/DC
-    b. Is not correct. This is the same as decision coverage because statement coverage is subsumed by decision coverage. Decision
-    coverage, however, provides a lower level of rigor than MC/DC or multiple condition coverage
+    b. Is not correct. This is the same as decision coverage because statement coverage is subsumed by decision coverage. Decision coverage, however, provides a lower level of rigor than MC/DC or multiple condition coverage
     c. Is not correct. MC/DC is required for the highest-level criticality software according to IEC 61508, but this scenario requires the level of testing to exceed this, so this is not a correct option
-    d. Is correct. MC/DC is required for the highest-level criticality software according to IEC 61508, which is presumably because several
-    thousand spectators could be killed/injured. Multiple condition coverage provides a higher level of coverage than MC/DC and as this ‘exceeds’ that provided by MC/DC this is the correct option for this scenario
+    d. Is correct. MC/DC is required for the highest-level criticality software according to IEC 61508, which is presumably because several thousand spectators could be killed/injured. Multiple condition coverage provides a higher level of coverage than MC/DC and as this ‘exceeds’ that provided by MC/DC this is the correct option for this scenario
 
 </details>
 
