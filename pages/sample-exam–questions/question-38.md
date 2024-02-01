@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -23,6 +24,8 @@
     b. Is not correct. Ideally data should be exchanged between tools with no manual intervention
     c. Is not correct. Using an IDE is often worthwhile if the tools ‘fit’ the IDE
     d. Is correct. In any test automation design, it is important to anticipate and handle software failures
+
+</details>
 
 ---
 

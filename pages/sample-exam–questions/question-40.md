@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -23,6 +24,8 @@
     b. Is not correct. This is the task of the fault injection tools
     c. Is correct. The mutated code is executed against the test suite to determine how well the test suite can detect the mutations (defects)
     d. Is not correct. These tools are generally used by the technical test analyst, or the developer when testing newly developed code
+
+</details>
 
 ---
 

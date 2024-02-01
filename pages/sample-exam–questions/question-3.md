@@ -43,7 +43,8 @@ ENDIF
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -51,6 +52,8 @@ ENDIF
     b. Is not correct. The TA would be expected to work with business analysts
     c. Is not correct. The TA would be expected to work with project sponsors
     d. Is correct. The TTA is expected to work with the technical stakeholders on the project, including the developers
+
+</details>
 
 ---
 

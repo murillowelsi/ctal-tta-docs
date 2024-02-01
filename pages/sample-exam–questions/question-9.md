@@ -17,7 +17,8 @@ You are the Technical Test Analyst working on the testing of software that will 
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d
 
@@ -27,6 +28,8 @@ You are the Technical Test Analyst working on the testing of software that will 
     c. Is not correct. MC/DC is required for the highest-level criticality software according to IEC 61508, but this scenario requires the level of testing to exceed this, so this is not a correct option
     d. Is correct. MC/DC is required for the highest-level criticality software according to IEC 61508, which is presumably because several
     thousand spectators could be killed/injured. Multiple condition coverage provides a higher level of coverage than MC/DC and as this ‘exceeds’ that provided by MC/DC this is the correct option for this scenario
+
+</details>
 
 ---
 

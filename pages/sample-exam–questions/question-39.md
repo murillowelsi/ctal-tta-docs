@@ -23,7 +23,8 @@ Your manager directs you to help her select a test execution automation tool to 
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c, d
 
@@ -32,6 +33,8 @@ Your manager directs you to help her select a test execution automation tool to 
     c. Is correct. It is explicitly mentioned in the scenario as being a capability of the application
     d. Is correct. It is explicitly mentioned in the scenario as being a capability of the application
     e. Is not correct. This might be a capability of the application, but it is not mentioned in the scenario, so it is not the most likely keyword on the list, and also since there was no mention that the product charges its customers
+
+</details>
 
 ---
 

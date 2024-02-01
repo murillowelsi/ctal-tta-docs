@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d, e
 
@@ -25,6 +26,8 @@
     c. Is not correct. MBT tools use a model of required behavior, not an internal view of the test object, to generate test cases
     d. Is not correct. MBT tools generate test cases to achieve a level of coverage of the model of required behavior, rather than of the test
     object source code (to which they have no access)
+
+</details>
 
 ---
 

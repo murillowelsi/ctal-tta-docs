@@ -36,7 +36,8 @@ Statement V
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -48,6 +49,8 @@ Statement V
         3. A = false, C = true
         4. A = false, C= false
     d. Is not correct. As shown in (c), 4 tests are enough to achieve 100% decision coverage
+
+</details>
 
 ---
 

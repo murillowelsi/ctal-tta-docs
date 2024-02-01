@@ -17,7 +17,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -25,6 +26,8 @@
     b. Is not correct. We are not worried about response time, throughput, or resource utilization here
     c. Is not correct. This risk does not relate to usability
     d. Is not correct. A change of to a different environment is not in question here
+
+</details>
 
 ---
 

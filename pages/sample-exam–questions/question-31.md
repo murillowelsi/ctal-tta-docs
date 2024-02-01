@@ -17,14 +17,17 @@ A Technical Test Analyst has been invited to the formal review of an architectur
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
     a. Is not correct. This response indicates a willingness to co-operate in getting the review done but the analyst will be unable to make a full contribution without preparation and the review would therefore be less effective than it should be
-    b. Is not correct. This response flags up the lack of preparation time but does not insist on allowing time for adequate preparation 
+    b. Is not correct. This response flags up the lack of preparation time but does not insist on allowing time for adequate preparation
     c. Is correct. The reviewer has raised the lack of preparation time and has suggested a solution to solve this issue
     d. Is not correct. This response is accurate, but preparation is about making a review as effective and efficient as possible. This is a requirement and an advantage of formal reviews
+
+</details>
 
 ---
 

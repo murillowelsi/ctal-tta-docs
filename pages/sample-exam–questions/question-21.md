@@ -17,7 +17,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -25,6 +26,8 @@
     b. Is correct. Replaceability testing focuses on the ability of software components (such as databases) to replace existing components
     c. Is not correct. Capacity testing relates to exercising the maximum limits of a system
     d. Is not correct. Co-existence testing considers the degree to which a test item can function satisfactorily alongside other independent products in a shared environment
+
+</details>
 
 ---
 

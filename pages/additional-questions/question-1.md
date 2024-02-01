@@ -17,7 +17,8 @@ TTA-4.3.1 (K2) Explain the reasons for including security testing in a test appr
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answers: b
 
@@ -25,6 +26,8 @@ TTA-4.3.1 (K2) Explain the reasons for including security testing in a test appr
     b. Is correct. This is an example of a reason for considering security testing given in the syllabus: “Software which exhibits unintended sideeffects when performing its intended function“
     c. Is not correct. This is an installability concern, not a security concern
     d. Is not correct. This is a performance concern, a not security concern
+
+</details>
 
 ---
 

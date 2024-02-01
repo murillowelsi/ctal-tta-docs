@@ -29,7 +29,8 @@ Budget is available to improve the maintainability of the code in each of the fo
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d
 
@@ -49,6 +50,8 @@ Thus:
     b. Is not correct
     c. Is correct (W – CC & RE, X – CP & CO, Y – CC & CH, Z – CO & RE)
     d. Is not correct
+
+</details>
 
 ---
 

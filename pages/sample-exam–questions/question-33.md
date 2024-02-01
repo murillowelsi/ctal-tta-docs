@@ -19,7 +19,8 @@ The following list of practices are mentioned in the design as options for ensur
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -27,6 +28,8 @@ The following list of practices are mentioned in the design as options for ensur
     b. Is not correct. Caching data may provide fast response times but may not guarantee that rapidly changing currency rates are accurately shown in real-time
     c. Is not correct. Object orientation practices do not target performance efficiency
     d. Is not correct. Data replication may not guarantee that the constantly changing currency rates are accurately shown in real-time
+
+</details>
 
 ---
 

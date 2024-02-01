@@ -37,7 +37,8 @@ Below is the pseudo-code for a program that calculates and prints sales commissi
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -45,6 +46,8 @@ Below is the pseudo-code for a program that calculates and prints sales commissi
     b. Is not correct. The variable ‘number’ is a valid value to assign to the variable ‘total’: The variable ‘commission_lo’ is not defined before line 12
     c. Is not correct. The variable ‘total’ is in scope at line 6 Use of the “hard-coded” value “0.15” is not a data flow anomaly
     d. Is not correct. The variable ‘number’ is defined at line 4. The variable ‘total’ is defined at line 6, and not redefined before line 12
+
+</details>
 
 ---
 

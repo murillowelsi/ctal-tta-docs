@@ -67,7 +67,8 @@ int findMax3(n1, n2, n3) {
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -81,6 +82,8 @@ Thus:
     b. Is correct
     c. Is not correct
     d. Is not correct
+
+</details>
 
 ---
 

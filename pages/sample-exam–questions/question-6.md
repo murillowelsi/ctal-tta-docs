@@ -36,7 +36,8 @@ ENDIF
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -52,6 +53,8 @@ ENDIF
         #5 and #7 show that SPEED can independently affect the overall outcome.
         #3 and #4 show that WHEELS can independently affect the outcome.
     d. Is not correct. Does not sufficiently cover the atomic conditions affecting the decision outcome. #1 combined with any of the other three (#5, #7, #8) cannot show that any single condition can independently affect the overall outcome
+
+</details>
 
 ---
 

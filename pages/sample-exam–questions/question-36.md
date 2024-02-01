@@ -16,7 +16,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b, e
 
@@ -25,6 +26,8 @@
     c. Is not correct. Writing test scripts is not part of the set-up of a test automation project
     d. Is not correct. Who performs test analysis and design (even of automated test cases) is not decided by the TTA
     e. Is correct. Defining the interface requirements between the automation tool and the existing test management tool is typically the responsibility of the TTA
+
+</details>
 
 ---
 

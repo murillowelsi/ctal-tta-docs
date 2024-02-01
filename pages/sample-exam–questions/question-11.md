@@ -41,7 +41,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -49,6 +50,8 @@
     b. Is correct. The decision at line 10 will always be true as var1 will always be 5 at line 10, thus line 13 is unreachable. The loop at line 5 can only be left if var2 is 10 or more, but each time through the loop var2 is reset at line 7 back to 4 and only incremented by 1 in the loop at line 15, so it only ever reaches 5
     c. Is not correct. See the correct justification for details
     d. Is not correct. There is only one entry point to the WHILE loop (with the control flow 4 → 5)
+
+</details>
 
 ---
 

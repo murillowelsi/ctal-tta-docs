@@ -27,7 +27,8 @@ Assume that you are executing security tests against the system.
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -35,6 +36,8 @@ Assume that you are executing security tests against the system.
     b. Is not correct. This is a security feature, not a security defect
     c. Is correct. A typical security defect
     d. Is not correct. If it is a defect at all, is a portability defect
+
+</details>
 
 ---
 

@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -24,6 +25,8 @@
     correct. Component test execution is triggered after build completion, by other tools
     c. Is correct. Both statements are true
     d. Is not correct. Most component testing tools are language-specific, and the build must be done before component test execution
+
+</details>
 
 ---
 

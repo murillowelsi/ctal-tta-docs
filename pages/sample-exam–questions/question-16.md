@@ -42,7 +42,8 @@ Below is the pseudo-code for a TRICKY program:
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b, d
 
@@ -52,6 +53,8 @@ Below is the pseudo-code for a TRICKY program:
     c. Is not correct. There are no global variables defined and no other programs called. Coupling is not an improvement area
     d. Is correct. Static analysis identifies code which has a low level of commenting compared to executable code. Since the program has no comments at all, this would be highlighted as an area for improving code maintainability
     e. Is not correct. Static analysis can apply indentation rules but in the case of the TRICKY program there is already adequate indentation
+
+</details>
 
 ---
 

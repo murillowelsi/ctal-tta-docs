@@ -45,7 +45,8 @@ You have been asked to analyze the following program that calculates a sales com
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d
 
@@ -54,6 +55,8 @@ You have been asked to analyze the following program that calculates a sales com
     sequence is not an anomaly
     c. Is not correct. totalBarrels is defined at line 2, then may be used at line 5, and is used at line 8, so the definition at line 18 takes place after a use of totalBarrels – a use then definition sequence is not an anomaly
     d. Is correct. At line 13 commission is defined and then in line 14 it is defined again, without any use between these two definitions. This is a definition-definition sequence, which is an anomaly
+
+</details>
 
 ---
 

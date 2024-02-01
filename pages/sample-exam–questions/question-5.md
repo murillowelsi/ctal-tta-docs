@@ -19,7 +19,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -36,6 +37,8 @@ The first test exercises decision outcomes `1→2, 2→3, 2→4, 4→2, 4→6, 6
     b. Is not correct
     c. Is not correct
     d. Is not correct
+
+</details>
 
 ---
 

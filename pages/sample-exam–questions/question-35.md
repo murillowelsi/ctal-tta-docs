@@ -4,7 +4,7 @@
 
 ### Question #35 (3 Points) - K4
 
-You are participating in a code review and have noticed a problem in the following section of pseudo-code (assume *** indicates a comment).
+You are participating in a code review and have noticed a problem in the following section of pseudo-code (assume \*\*\* indicates a comment).
 
 ```pseudo
 *** this pseudo-code calculates the average sales per month achieved by an organization ***
@@ -51,7 +51,8 @@ You are participating in a code review and have noticed a problem in the followi
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -59,6 +60,8 @@ You are participating in a code review and have noticed a problem in the followi
     b. Is correct. On line 22 the divisor “number_of_months” is not checked for 0. This should be checked before line 22 is executed
     c. Is not correct. Comments and code are consistent
     d. Is not correct. All declared variables (lines 1 and 2) are used in the code
+
+</details>
 
 ---
 

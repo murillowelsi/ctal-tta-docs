@@ -20,7 +20,8 @@ A web-based holiday booking system expects to handle three times its average num
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answers: a, d
 
@@ -29,6 +30,8 @@ A web-based holiday booking system expects to handle three times its average num
     c. Is not correct. Re-using functional tests is not a reason for conducting performance tests. Being able to reuse test cases is a bonus, but not a reason. Performing the tests and analyzing the results is still extra effort that needs justification
     d. Is correct. People may abandon the site if their enquiry responses take too long, which may occur during the peak month. This is a risk that can be addressed by performance testing
     e. Is not correct. Having skills in performance testing tools is good, but it is not a reason to conduct performance tests
+
+</details>
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### Question #34 (3 Points) - K4
 
-You are participating in a code review and have noticed a problem in the following section of pseudo-code (assume *** indicates a comment).
+You are participating in a code review and have noticed a problem in the following section of pseudo-code (assume \*\*\* indicates a comment).
 
 ```pseudo
 ***This code checks for the validity of a card type:***
@@ -30,7 +30,8 @@ end if
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -38,6 +39,8 @@ end if
     b. Is not correct. It is unlikely that there is an external library available that provides this functionality
     c. Is correct. It is unlikely that invalid ‘Discover’ cards will be entered more often than valid cards, so it is most likely the card will be Visa or MasterCard, and so that check should be performed first
     d. Is not correct. The ‘else’ handles all conditions not met by the preceding ‘if’ statements
+
+</details>
 
 ---
 

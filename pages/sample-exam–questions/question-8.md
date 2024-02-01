@@ -16,7 +16,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a, c
 
@@ -25,6 +26,8 @@
     c. Is correct. Data handling issues are listed under types of defects found by API testing
     d. Is not correct. This low-level programming issues are addressed by unit testing
     e. Is not correct. Issues on GUI cannot be targeted by API testing since it is executed on lower levels of system architecture than GUI
+
+</details>
 
 ---
 

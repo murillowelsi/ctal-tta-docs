@@ -17,7 +17,8 @@ TTA-4.4.1 (K2) Explain the reasons for including reliability testing in a test a
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answers: a
 
@@ -25,6 +26,8 @@ TTA-4.4.1 (K2) Explain the reasons for including reliability testing in a test a
     b. Is not correct. This relates to performance efficiency testing
     c. Is not correct. Vulnerabilities leading to a denial of service would be associated with security testing
     d. Is not correct. This relates to performance efficiency testing
+
+</details>
 
 ---
 

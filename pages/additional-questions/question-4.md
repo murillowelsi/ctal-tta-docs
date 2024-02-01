@@ -17,7 +17,8 @@ TTA-4.8.1 (K2) Explain the reasons for including co-existence testing in a test 
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answers: a
 
@@ -25,6 +26,8 @@ TTA-4.8.1 (K2) Explain the reasons for including co-existence testing in a test 
     b. Is not correct. This is an example of replaceability testing, and replaceability is a sub-characteristic of portability, not compatibility
     c. Is not correct. This is an example of functional testing. Compatibility testing is testing of a non-functional characteristic
     d. Is not correct. This may be relevant to maintainability testing but has nothing to do with compatibility testing
+
+</details>
 
 ---
 

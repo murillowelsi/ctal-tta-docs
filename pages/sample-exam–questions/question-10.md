@@ -18,7 +18,8 @@ decision in the module under test consists of 20 independent atomic conditions. 
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -27,6 +28,8 @@ decision in the module under test consists of 20 independent atomic conditions. 
     reasonable choice as it is stronger than decision testing, but, compared to multiple condition testing, requires only a linear number of test cases – for example, the decision with 20 conditions requires only 21 test cases to achieve full MC/DC coverage
     c. Is not correct. Decision testing is a relatively weak criterion compared to MC/DC, and so not suitable for a safety-critical system
     d. Is not correct. There is no information about API in this scenario. Also, this would not guarantee the thorough level of testing required for such a safety-critical system
+
+</details>
 
 ---
 

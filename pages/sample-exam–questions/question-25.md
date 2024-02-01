@@ -23,7 +23,8 @@ The marketing department anticipates that with the new functionality being intro
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -31,6 +32,8 @@ The marketing department anticipates that with the new functionality being intro
     b. Is correct. Scalability testing focuses on the ability of a system to meet future performance efficiency requirements, which may be beyond those currently required. The scenario states that the current system’s response to user inputs is just below the maximum specified time, but that the number of users is expected to double over the next 12 months. There is a high risk that the planned scalability tests will show that the system fails to meet future requirements for the expected numbers of users
     c. Is not correct. There is no indication in the scenario that the system uses disk capacity resources. Compared to option b this is less likely to be a source of defects
     d. Is not correct. The scenario states that “At present the system runs reliably” - which suggests it does not have issues related to long time operation under nominal load and it is unlikely that the increase in the number of users will cause a degradation in response times when the system is run for a long time
+
+</details>
 
 ---
 

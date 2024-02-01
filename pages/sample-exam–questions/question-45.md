@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d
 
@@ -25,6 +26,8 @@
     c. Is not correct. Versions that run on an emulator should also run on the real devic
     d. Is correct. The purpose of an emulator is to test device-specific behaviour of an application as early as possible – even if the device is
     not available to the tester
+
+</details>
 
 ---
 

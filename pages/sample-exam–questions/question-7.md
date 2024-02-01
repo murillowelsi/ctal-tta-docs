@@ -36,7 +36,8 @@ ENDIF
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -44,6 +45,8 @@ ENDIF
     b. Is not correct. This answer provides 3/8 (37.5%) coverage of the multiple condition testing
     c. Is not correct. This answer provides 5/8 (62.5%) coverage of the multiple condition testing
     d. Is not correct. This answer provides 2/8 (25%) coverage of the multiple condition testing
+
+</details>
 
 ---
 

@@ -16,7 +16,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answers: a, b
 
@@ -25,6 +26,8 @@
     c. Is not correct. Accuracy of the computations is a concern for the TA, not the TTA
     d. Is not correct. Budgetary issues should be handled by the TM, not the TTA
     e. Is not correct. High change rates in business use cases affect the functionality testing
+
+</details>
 
 ---
 

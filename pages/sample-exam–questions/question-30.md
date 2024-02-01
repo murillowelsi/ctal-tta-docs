@@ -10,7 +10,7 @@
 - Install it using the installation wizard
 - Check if the app is installed properly
 - Uninstall the app
-- Check if everything was uninstalled properly 
+- Check if everything was uninstalled properly
 
 **What is the reason for performing this test?**
 
@@ -23,7 +23,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -31,6 +32,8 @@
     b. Is not correct. The test appears to be for installability, which is not a form of reliability testing, it is a type of portability testing
     c. Is correct. The test appears to be for installability, which is a type of portability testing
     d. Is not correct. The test appears to be for installability, which is not a form of compatibility testing, it is a type of portability testing
+
+</details>
 
 ---
 

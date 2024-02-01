@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -23,6 +24,8 @@
     b. Is correct. Performance testing tools are used to generate defined loads based on operational profiles
     c. Is not correct. The script needs to be changed to take account of the variability of different users and their transactions
     d. Is not correct. Measurements need to be taken during execution
+
+</details>
 
 ---
 

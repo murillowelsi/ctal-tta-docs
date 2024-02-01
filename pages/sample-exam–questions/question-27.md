@@ -4,7 +4,7 @@
 
 ### Question #27 (1 Point) - K2
 
-You work as the TTA on an agile project and you have been asked to calculate the mean time to failure (MTTF) for the system under test under a normal load. 
+You work as the TTA on an agile project and you have been asked to calculate the mean time to failure (MTTF) for the system under test under a normal load.
 
 **Which of the following sources of information is MOST likely to provide you with the necessary information about the load that you should generate in your tests?**
 
@@ -17,7 +17,8 @@ You work as the TTA on an agile project and you have been asked to calculate the
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: b
 
@@ -25,6 +26,8 @@ You work as the TTA on an agile project and you have been asked to calculate the
     b. Is correct. The operational profile should define how the system is expected to be used in normal conditions
     c. Is not correct. The Scrum Master may not be a subject matter expert on reliability and is unlikely to know the expected load in sufficient detail
     d. Is not correct. Although the test environment requirements will include the ability to generate loads based on the operational profile, they will not define those loads
+
+</details>
 
 ---
 

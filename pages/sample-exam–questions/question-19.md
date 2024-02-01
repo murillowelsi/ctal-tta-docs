@@ -22,7 +22,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answers: a, d
 
@@ -31,6 +32,8 @@
     c. Is not correct. A fully representative test environment has been made available
     d. Is correct. If components are distributed across different sites and organizations, the effort required to plan and co-ordinate the system integration tests may be significant and must be addressed in the test planning
     e. Is not correct. Data security considerations are not mentioned in the scenario
+
+</details>
 
 ---
 

@@ -8,17 +8,17 @@ You are participating in an architectural review of a new product design. This i
 
 - Programming Practices:
 
-    1. Connection pooling
-    2. Data caching
-    3. Lazy instantiation
-    4. Transaction concurrency
+  1. Connection pooling
+  2. Data caching
+  3. Lazy instantiation
+  4. Transaction concurrency
 
 - Problems:
 
-    A. Performance impact when the instantiation is needed
-    B. Transaction loss due to processor unavailability
-    C. Errors in multi-threading logic
-    D. Stale data 
+  A. Performance impact when the instantiation is needed
+  B. Transaction loss due to processor unavailability
+  C. Errors in multi-threading logic
+  D. Stale data
 
 **Which of the above programming practices could be used to reduce unnecessary memory use in this scenario and what are the possible problems in using this practice?**
 
@@ -31,7 +31,8 @@ You are participating in an architectural review of a new product design. This i
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -39,6 +40,8 @@ You are participating in an architectural review of a new product design. This i
     b. Is not correct. Transaction concurrency uses more memory than running transactions sequentially
     c. Is correct. This would reduce unnecessary memory use but does have the possible problem of a delayed response when instantiation is performed
     d. Is not correct. Connection pooling can help memory and performance, but the possible problem is running out of connections, not losing a transaction
+
+</details>
 
 ---
 

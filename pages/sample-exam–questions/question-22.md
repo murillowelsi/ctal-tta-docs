@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d
 
@@ -23,6 +24,8 @@
     b. Is not correct. Once the system is operational, the operational data can be used to determine availability, and so availability testing using operational profiles is unnecessary
     c. Is not correct. Security testing may be scheduled for the unit, integration and system testing levels, but for many projects it should start earlier with reviews and static analysis
     d. Is correct. Since maintainability is built into the code and the documentation for each individual code component maintainability can be evaluated early in the lifecycle without having to wait for a completed and running system
+
+</details>
 
 ---
 

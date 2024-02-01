@@ -21,7 +21,8 @@ a tester performed an SQL injection attack and consequently obtained a list of a
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: a
 
@@ -29,6 +30,8 @@ a tester performed an SQL injection attack and consequently obtained a list of a
     b. Is not correct. We do not know if the event of gaining access to sensitive data can be proven to have taken place. To test for non-repudiation test steps concerning the server log-files are typically required
     c. Is not correct. We do not know if such an SQL injection attack can be traced uniquely to the person that performed it. To test for accountability, log-files must typically be checked against specific actions by authorized and non-authorized users
     d. Is not correct. Availability tests in the security context are typically performed by simulating denial-of-service scenarios
+
+</details>
 
 ---
 

@@ -17,7 +17,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: c
 
@@ -25,6 +26,8 @@
     b. Is not correct. There is no indication this is a distributed system
     c. Is correct. It is highly likely the bank is required by regulation to encrypt the customer financial data, which has testing implications
     d. Is not correct. It is not clear whether this system will be used in-house (thus a production environment might be available) or sold to customers (thus production environments would likely not be available)
+
+</details>
 
 ---
 

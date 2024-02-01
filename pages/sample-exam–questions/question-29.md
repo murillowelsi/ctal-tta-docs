@@ -15,7 +15,8 @@
 
 ---
 
-### Answer
+<details>
+<summary><strong>Show Result</strong></summary>
 
 #### Correct Answer: d
 
@@ -23,6 +24,8 @@
     b. Is not correct. Modifiability should be considered if you do expect several problems to be identified within the system
     c. Is not correct. Modularity should be considered in the context of changes to components, while the responsibility for the maintainability of a COTS system normally lies with the providers of the system, who will have to maintain it
     d. Is correct. Reusability addresses the degree to which an asset can be used in more than one system, or in building other assets
+
+</details>
 
 ---
 
