@@ -22,6 +22,8 @@ I've created this material to assist me in preparing for the Certified Tester Ad
   🤮 Very challenging / Did not understand
   ```
 
+## Content Structure
+
 ![Alt text](<resources/images/Technical Test Analyst CTAL-TTA 4.0.png>)
 
 ## Table of Contents
