@@ -18,7 +18,7 @@
 <details>
 <summary><strong>Show Result</strong></summary>
 
-#### Correct Answer: a
+#### Correct Answer: d
 
     a. Is not correct. The elimination of duplicated information across tools is a positive for a toolset
     b. Is not correct. Ideally data should be exchanged between tools with no manual intervention
