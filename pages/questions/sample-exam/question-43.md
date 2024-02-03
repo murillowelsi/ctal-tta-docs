@@ -11,14 +11,14 @@
     c. MBT tools provide an internal view of the test object and are used to automatically generate white-box test cases
     d. MBT tools automatically generate test cases to achieve a required level of coverage of the test object source code
 
-**Select TWO options.**
+**Select ONE option.**
 
 ---
 
 <details>
 <summary><strong>Show Result</strong></summary>
 
-#### Correct Answer: d, e
+#### Correct Answer: a
 
     a. Is correct. The required behavior represented in the model (e.g., state model, Petri Net) is typically used to automatically generate many test cases corresponding to the required behavior
     b. Is not correct. MBT tools do execute the model of the test object’s behavior, but they do this to generate test cases which are then executed on the test object to identify defects
