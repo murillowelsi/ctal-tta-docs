@@ -39,7 +39,7 @@ Consider these test input values:
 <details>
 <summary><strong>Show Result</strong></summary>
 
-#### Correct Answer: c
+#### Correct Answer: a
 
     a. Is correct. Multiple condition testing requires testing the entire truth table (all combinations of true and false possible which equals 2<sup>N</sup>, where N is the number of uncoupled atomic conditions). So, this example requires 8 tests. 50% coverage is achieved with any 4 separate tests from the list
     b. Is not correct. This answer provides 3/8 (37.5%) coverage of the multiple condition testing
