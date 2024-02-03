@@ -22,6 +22,8 @@ I've created this material to assist me in preparing for the Certified Tester Ad
   🤮 Very challenging / Did not understand
   ```
 
+![Alt text](<resources/images/Technical Test Analyst CTAL-TTA 4.0.png>)
+
 ## Table of Contents
 
 **[Chapter 1: The Technical Test Analyst's Tasks in Risk-Based Testing](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.1-introduction.md)**
