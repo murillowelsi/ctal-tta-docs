@@ -33,4 +33,4 @@ A new personal banking system is to be developed for use on mobile devices.
 
 ---
 
-[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](../sample-exam–questions/question-45.md) | [Next Page →](question-2.md)
+[↑ Table of Contents](../../README.md#table-of-contents) | [← Previous Page](../sample-exam/question-45.md) | [Next Page →](question-2.md)
