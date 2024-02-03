@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.7.2: Instalability Testing](../4-quality-characteristics-for-technical-testing/4.7-portability-testing.md#472-installability-testing)
+## [TTA-4.7.2: Instalability Testing](../../4-quality-characteristics-for-technical-testing/4.7-portability-testing.md#472-installability-testing)
 
 ### Question #30 (1 Point) - K2
 

@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-5.2.2: Code Reviews](../5-reviews/5.2-using-checklists-in-reviews.md#522-code-reviews)
+## [TTA-5.2.2: Code Reviews](../../5-reviews/5.2-using-checklists-in-reviews.md#522-code-reviews)
 
 ### Question #35 (3 Points) - K4
 

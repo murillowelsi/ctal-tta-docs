@@ -1,12 +1,12 @@
 # Technical Test Analyst Exam
 
-## [TTA-2.3: Decision Testing](../2-white-box-test-techniques/2.3-decision-testing.md)
+## [TTA-2.3: Decision Testing](../../2-white-box-test-techniques/2.3-decision-testing.md)
 
 ### Question #5 (2 Points) - K3
 
 You are testing code whose control flow graph is presented below. Node 1 is the entry point and node 9 is the exit point.
 
-![Alt text](../../resources/images/question-5.png)
+![Alt text](../../../resources/images/question-5.png)
 
 **Assuming that all decisions in this code are independent, what is the minimum number of test cases required to achieve 100% decision coverage?**
 

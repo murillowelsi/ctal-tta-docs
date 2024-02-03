@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.2.5: Data Security and Data Protection](../4-quality-characteristics-for-technical-testing/4.2-general-planning-issues.md#425-data-security-and-data-protection)
+## [TTA-4.2.5: Data Security and Data Protection](../../4-quality-characteristics-for-technical-testing/4.2-general-planning-issues.md#425-data-security-and-data-protection)
 
 ### Question #18 (3 Points) - K4
 

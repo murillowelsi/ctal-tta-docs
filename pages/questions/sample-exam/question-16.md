@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-3.2.3: Using Static Analysis for Improving Maintainability](../3-static-and-dynamic-analysis/3.2-static-analysis.md#323-using-static-analysis-for-improving-maintainability)
+## [TTA-3.2.3: Using Static Analysis for Improving Maintainability](../../3-static-and-dynamic-analysis/3.2-static-analysis.md#323-using-static-analysis-for-improving-maintainability)
 
 ### Question #16 (2 Points) - K3
 

@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.3: Performance Testing](../4-quality-characteristics-for-technical-testing/4.5-performance-testing.md)
+## [TTA-4.3: Performance Testing](../../4-quality-characteristics-for-technical-testing/4.5-performance-testing.md)
 
 ### Question #25 (2 Points) - K3
 

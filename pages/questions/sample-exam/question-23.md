@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.7: Portability Testing](../4-quality-characteristics-for-technical-testing/4.7-portability-testing.md)
+## [TTA-4.7: Portability Testing](../../4-quality-characteristics-for-technical-testing/4.7-portability-testing.md)
 
 ### Question #23 (1 Point) - K2
 

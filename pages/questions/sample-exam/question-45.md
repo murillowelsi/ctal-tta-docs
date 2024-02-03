@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.2.7.2: Emulators](../6-test-tools-and-automation/6.2-specific-test-tools.md#6272-emulators)
+## [TTA-6.2.7.2: Emulators](../../6-test-tools-and-automation/6.2-specific-test-tools.md#6272-emulators)
 
 ### Question #45 (1 Point) - K2
 

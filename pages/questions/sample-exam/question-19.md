@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.2: General Planning Issues](../4-quality-characteristics-for-technical-testing/4.2-general-planning-issues.md)
+## [TTA-4.2: General Planning Issues](../../4-quality-characteristics-for-technical-testing/4.2-general-planning-issues.md)
 
 ### Question #19 (3 Points) - K4
 

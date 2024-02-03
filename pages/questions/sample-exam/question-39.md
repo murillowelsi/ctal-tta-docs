@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.1.1.3: Applying a Keyword-driven Approach](../6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#6113-applying-a-keyword-driven-approach)
+## [TTA-6.1.1.3: Applying a Keyword-driven Approach](../../6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#6113-applying-a-keyword-driven-approach)
 
 ### Question #39 (2 Points) - K3
 

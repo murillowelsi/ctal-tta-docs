@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-3.2.1: Data Flow Analysis](../3-static-and-dynamic-analysis/3.2-static-analysis.md#322-data-flow-analysis)
+## [TTA-3.2.1: Data Flow Analysis](../../3-static-and-dynamic-analysis/3.2-static-analysis.md#322-data-flow-analysis)
 
 ### Question #13 (3 Points) - K3
 

@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.2.1: Fault Seeding Tools](../6-test-tools-and-automation/6.2-specific-test-tools.md#621-fault-seeding-tools)
+## [TTA-6.2.1: Fault Seeding Tools](../../6-test-tools-and-automation/6.2-specific-test-tools.md#621-fault-seeding-tools)
 
 ### Question #40 (1 Point) - K2
 

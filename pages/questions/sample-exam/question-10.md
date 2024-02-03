@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-2.8.1: Non-Safety-Related Systems](../2-white-box-test-techniques/2.8-selecting-a-white-box-test-technique.md#281-non-safety-related-systems)
+## [TTA-2.8.1: Non-Safety-Related Systems](../../2-white-box-test-techniques/2.8-selecting-a-white-box-test-technique.md#281-non-safety-related-systems)
 
 ### Question #10 (3 Points) - K4
 

@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-5.2.1: Architectural Reviews](../5-reviews/5.2-using-checklists-in-reviews.md#521-architectural-reviews)
+## [TTA-5.2.1: Architectural Reviews](../../5-reviews/5.2-using-checklists-in-reviews.md#521-architectural-reviews)
 
 ### Question #33 (3 Points) - K4
 

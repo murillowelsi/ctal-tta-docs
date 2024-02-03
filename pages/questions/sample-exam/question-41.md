@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.2.3: Performance Testing Tools](../6-test-tools-and-automation/6.2-specific-test-tools.md#623-performance-testing-tools)
+## [TTA-6.2.3: Performance Testing Tools](../../6-test-tools-and-automation/6.2-specific-test-tools.md#623-performance-testing-tools)
 
 ### Question #41 (1 Point) - K2
 

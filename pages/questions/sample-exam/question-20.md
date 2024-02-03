@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.4: Reliability Testing](../4-quality-characteristics-for-technical-testing/4.4-reliability-testing.md)
+## [TTA-4.4: Reliability Testing](../../4-quality-characteristics-for-technical-testing/4.4-reliability-testing.md)
 
 ### Question #20 (2 Points) - K3
 

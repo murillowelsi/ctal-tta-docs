@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-2.4: Modified Condition/Decision Testing](../2-white-box-test-techniques/2.4-modified-condition-decision-testing.md)
+## [TTA-2.4: Modified Condition/Decision Testing](../../2-white-box-test-techniques/2.4-modified-condition-decision-testing.md)
 
 ### Question #6 (2 Points) - K3
 

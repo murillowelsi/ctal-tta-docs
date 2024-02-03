@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.3.1: Reasons for Considering Security Testing](../4-quality-characteristics-for-technical-testing/4.3-security-testing.md#431-reasons-for-considering-security-testing)
+## [TTA-4.3.1: Reasons for Considering Security Testing](../../4-quality-characteristics-for-technical-testing/4.3-security-testing.md#431-reasons-for-considering-security-testing)
 
 ### Question #X1 (1 Point) - K2
 

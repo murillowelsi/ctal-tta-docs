@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-5.1: Technical Test Analyst Tasks in Reviews](../5-reviews/5.1-technical-test-analyst-tasks-in-reviews.md#51-technical-test-analyst-tasks-in-reviews)
+## [TTA-5.1: Technical Test Analyst Tasks in Reviews](../../5-reviews/5.1-technical-test-analyst-tasks-in-reviews.md#51-technical-test-analyst-tasks-in-reviews)
 
 ### Question #31 (1 Point) - K2
 

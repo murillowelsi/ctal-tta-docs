@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-3.2.1: Control Flow Analysis](../3-static-and-dynamic-analysis/3.2-static-analysis.md#321-control-flow-analysis)
+## [TTA-3.2.1: Control Flow Analysis](../../3-static-and-dynamic-analysis/3.2-static-analysis.md#321-control-flow-analysis)
 
 ### Question #12 (2 Points) - K3
 
@@ -72,7 +72,7 @@ int findMax3(n1, n2, n3) {
 
 #### Correct Answer: b
 
-![Control flow graphs](../../resources/images/question-12.png)
+![Control flow graphs](../../../resources/images/question-12.png)
 
 The control flow graphs of all three functions are presented in the figure. One can see that findMax2 has 2 decision points (marked with symbol “D”), so its cyclomatic complexity equals 3, while findMax1 and findMax3 have 3 decision points, so their cyclomatic complexity equals 4. Hence:
 

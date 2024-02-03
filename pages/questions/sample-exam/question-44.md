@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.2.6: Component Testing and Build Tools](../6-test-tools-and-automation/6.2-specific-test-tools.md#625-tools-to-support-model-based-testing)
+## [TTA-6.2.6: Component Testing and Build Tools](../../6-test-tools-and-automation/6.2-specific-test-tools.md#625-tools-to-support-model-based-testing)
 
 ### Question #44 (1 Point) - K2
 

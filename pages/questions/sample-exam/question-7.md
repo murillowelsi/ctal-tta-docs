@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-2.5: Multiple Condition Testing](../2-white-box-test-techniques/2.5-multiple-condition-testing.md)
+## [TTA-2.5: Multiple Condition Testing](../../2-white-box-test-techniques/2.5-multiple-condition-testing.md)
 
 ### Question #7 (2 Points) - K3
 

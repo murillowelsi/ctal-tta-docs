@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.2.4: Tools for Testing Websites](../6-test-tools-and-automation/6.2-specific-test-tools.md#624-tools-for-testing-websites)
+## [TTA-6.2.4: Tools for Testing Websites](../../6-test-tools-and-automation/6.2-specific-test-tools.md#624-tools-for-testing-websites)
 
 ### Question #42 (1 Point) - K2
 

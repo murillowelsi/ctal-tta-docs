@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.1.1.4: Handling Software Failures](../6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#6114-handling-software-failures)
+## [TTA-6.1.1.4: Handling Software Failures](../../6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#6114-handling-software-failures)
 
 ### Question #38 (1 Point) - K2
 

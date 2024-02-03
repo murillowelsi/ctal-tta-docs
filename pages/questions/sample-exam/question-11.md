@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-3.2.1: Control Flow Analysis](../3-static-and-dynamic-analysis/3.2-static-analysis.md#321-control-flow-analysis)
+## [TTA-3.2.1: Control Flow Analysis](../../3-static-and-dynamic-analysis/3.2-static-analysis.md#321-control-flow-analysis)
 
 ### Question #11 (2 Points) - K3
 

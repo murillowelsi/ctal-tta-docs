@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-2.7: API Testing](../2-white-box-test-techniques/2.7-api-testing.md#27-api-testing)
+## [TTA-2.7: API Testing](../../2-white-box-test-techniques/2.7-api-testing.md#27-api-testing)
 
 ### Question #8 (1 Point) - K2
 

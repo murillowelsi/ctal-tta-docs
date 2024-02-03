@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.6: Maintainability Testing](../4-quality-characteristics-for-technical-testing/4.6-maintainability-testing.md)
+## [TTA-4.6: Maintainability Testing](../../4-quality-characteristics-for-technical-testing/4.6-maintainability-testing.md)
 
 ### Question #22 (1 Point) - K2
 

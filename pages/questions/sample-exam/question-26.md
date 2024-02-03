@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.3: Security Testing](../4-quality-characteristics-for-technical-testing/4.3-security-testing.md)
+## [TTA-4.3: Security Testing](../../4-quality-characteristics-for-technical-testing/4.3-security-testing.md)
 
 ### Question #26 (1 Point) - K2
 

@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.5.7: Performance Test Planning](../4-quality-characteristics-for-technical-testing/4.5-performance-testing.md#457-performance-test-planning)
+## [TTA-4.5.7: Performance Test Planning](../../4-quality-characteristics-for-technical-testing/4.5-performance-testing.md#457-performance-test-planning)
 
 ### Question #28 (1 Point) - K2
 

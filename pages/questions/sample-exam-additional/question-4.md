@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-4.8: Compatibility Testing](../4-quality-characteristics-for-technical-testing/4.8-compatibility-testing.md)
+## [TTA-4.8: Compatibility Testing](../../4-quality-characteristics-for-technical-testing/4.8-compatibility-testing.md)
 
 ### Question #X4 (1 Point) - K2
 

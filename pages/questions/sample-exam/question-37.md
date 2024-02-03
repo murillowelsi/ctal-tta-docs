@@ -1,6 +1,6 @@
 # Technical Test Analyst Exam
 
-## [TTA-6.1.1: Selecting the Automation Approach](../6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#611-selecting-the-automation-approach)
+## [TTA-6.1.1: Selecting the Automation Approach](../../6-test-tools-and-automation/6.1-defining-the-test-automation-project.md#611-selecting-the-automation-approach)
 
 ### Question #37 (1 Point) - K2
 
