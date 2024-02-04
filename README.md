@@ -26,6 +26,61 @@ I've created this material to assist me in preparing for the Certified Tester Ad
 
 ![Alt text](<resources/images/Technical Test Analyst CTAL-TTA 4.0.png>)
 
+| Question Distribution | K-Level | Number of Questions per LO (group)* | Suggested Points per Question | Notes |
+|:---------------------:|:-------:|:------------------------------------:|:-----------------------------:|:-----:|
+|      **Chapter 1**    |         |                                      |                               |       |
+|       TTA-1.2.1       |   K2    |                  1                  |               1               |       |
+|       TTA-1.2.2       |   K2    |                  1                  |               1               |       |
+|                       |         |                                      |                               | There is a total of 2 questions required for Chapter 1. K2 = 2, K3 = 0, K4 = 0, Number of points for this chapter = 2 |
+|      **Chapter 2**    |         |                                      |                               |       |
+|       TTA-2.2.1       |   K3    |                  1                  |               2               |       |
+|       TTA-2.3.1       |   K3    |                  2                  |               2               |       |
+|       TTA-2.4.1       |   K3    |                  1                  |               2               |       |
+|       TTA-2.5.1       |   K3    |                  1                  |               2               |       |
+|       TTA-2.7.1       |   K2    |                  1                  |               1               |       |
+|       TTA-2.8.1       |   K4    |                  2                  |               3               |       |
+|                       |         |                                      |                               | There is a total of 8 questions required for Chapter 2. K2 = 1, K3 = 5, K4 = 2, Number of points for this chapter = 17 |
+|      **Chapter 3**    |         |                                      |                               |       |
+|       TTA-3.2.1       |   K3    |                  2                  |               2               |       |
+|       TTA-3.2.2       |   K3    |                  2                  |               2               |       |
+|       TTA-3.2.3       |   K3    |                  2                  |               2               |       |
+|       TTA-3.3.1       |   K3    |                  1                  |               2               |       |
+|                       |         |                                      |                               | There is a total of 7 questions required for Chapter 3. K2 = 0, K3 = 7, K4 = 0, Number of points for this chapter = 14 |
+|      **Chapter 4**    |         |                                      |                               |       |
+|       TTA-4.2.1       |   K4    |                  2                  |               3               |       |
+|       TTA-4.2.2       |   K3    |                  2                  |               2               |       |
+|       TTA-4.2.3       |   K2    |                  2                  |               1               |       |
+|       TTA-4.2.4       |   K3    |                  2                  |               2               |       |
+|       TTA-4.3.1       |   K2    |                  1                  |               1               |       |
+|       TTA-4.3.2       |   K3    |                  1                  |               2               |       |
+|       TTA-4.4.1       |   K2    |                  1                  |               1               |       |
+|       TTA-4.4.2       |   K2    |                  1                  |               1               |       |
+|       TTA-4.5.1       |   K2    |                  1                  |               1               |       |
+|       TTA-4.5.2       |   K2    |                  1                  |               1               |       |
+|       TTA-4.6.1       |   K3    |                  1                  |               2               |       |
+|       TTA-4.7.1       |   K2    |                  2                  |               1               |       |
+|       TTA-4.8.1       |   K2    |                  2                  |               1               |       |
+|                       |         |                                      |                               | There is a total of 13 questions required for Chapter 4. K2 = 7, K3 = 4, K4 = 2, Number of points for this chapter = 21 |
+|      **Chapter 5**    |         |                                      |                               |       |
+|       TTA-5.1.1       |   K2    |                  1                  |               1               |       |
+|       TTA-5.2.1       |   K4    |                  2                  |               3               |       |
+|       TTA-5.2.2       |   K4    |                  2                  |               3               |       |
+|                       |         |                                      |                               | There is a total of 5 questions required for Chapter 5. K2 = 1, K3 = 0, K4 = 4, Number of points for this chapter = 13 |
+|      **Chapter 6**    |         |                                      |                               |       |
+|       TTA-6.1.1       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.1.2       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.1.3       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.1.4       |   K3    |                  1                  |               2               |                   |
+|       TTA-6.2.1       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.2.2       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.2.3       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.2.4       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.2.5       |   K2    |                  1                  |               1               |                   |
+|       TTA-6.2.6       |   K2    |                  1                  |               1               |                   |
+|                       |         |                                      |                               | There is a total of 10 questions required for Chapter 6. K2 = 9, K3 = 1, K4 = 0, Number of points for this chapter = 11 |
+|        **TOTAL**      |         |                                      |                               | 120 minutes for 45 questions of 78 points |
+
+
 ## Table of Contents
 
 **[Chapter 1: The Technical Test Analyst's Tasks in Risk-Based Testing](pages/1-technical-test-analysts-tasks-in-risk-based-testing/1.1-introduction.md)**
