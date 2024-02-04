@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json,md}\""
+  },
   "dependencies": {
     "markdownlint-cli": "^0.38.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
