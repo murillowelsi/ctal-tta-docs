@@ -9,8 +9,7 @@ You are participating in a code review and have noticed a problem in the followi
 ```pseudo
 *** this pseudo-code calculates the average sales per month achieved by an organization ***
 0 program SALES
-1 month_counter, sales_in_month, total_sales, fileID, number_of_months:
-   integer
+1 month_counter, sales_in_month, total_sales, fileID, number_of_months: integer
 2 average_sales: float
 3 begin
 4     *** open the sales file***
@@ -24,15 +23,13 @@ You are participating in a code review and have noticed a problem in the followi
 12        month_counter = 1
 13        total_sales = 0
 14        while month_counter <= number_of_months loop
-15            *** get sales for month from sales file using the
-                GetSales function***
+15            *** get sales for month from sales file using the GetSales function***
 16            sales_in_month = GetSales (month_counter, fileID)
 17            *** add the sales to the total***
 18            total_sales = total_sales + sales_in_month
 19            month_counter = month_counter + 1
 20        endloop
-21        *** calculate the average monthly sales and output that
-            value***
+21        *** calculate the average monthly sales and output that value***
 22        average_sales = total_sales / number_of_months
 23        Write (average_sales)
 24     endif
