@@ -18,7 +18,7 @@ Assume you are working as a Technical Test Analyst on a project where a new bank
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: c
 

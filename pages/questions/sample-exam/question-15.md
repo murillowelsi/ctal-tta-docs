@@ -28,7 +28,7 @@ Budget is available to improve the maintainability of the code in each of the fo
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: c
 

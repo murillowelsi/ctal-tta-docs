@@ -18,7 +18,7 @@ TTA-4.4.1 (K2) Explain the reasons for including reliability testing in a test a
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answers: a
 

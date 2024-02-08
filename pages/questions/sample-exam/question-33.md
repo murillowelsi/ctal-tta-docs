@@ -20,7 +20,7 @@ The following list of practices are mentioned in the design as options for ensur
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: a
 

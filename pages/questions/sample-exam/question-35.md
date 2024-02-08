@@ -48,7 +48,7 @@ You are participating in a code review and have noticed a problem in the followi
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b
 

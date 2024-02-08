@@ -20,7 +20,7 @@ You know that the ADS was designed using an object-oriented approach and impleme
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: c
 

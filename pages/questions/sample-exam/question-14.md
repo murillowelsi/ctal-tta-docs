@@ -46,7 +46,7 @@ You have been asked to analyze the following program that calculates a sales com
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: d
 

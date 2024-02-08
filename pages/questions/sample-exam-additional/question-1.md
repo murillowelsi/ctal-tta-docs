@@ -20,7 +20,7 @@ A new personal banking system is to be developed for use on mobile devices.
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answers: b
 

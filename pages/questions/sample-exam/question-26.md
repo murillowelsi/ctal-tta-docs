@@ -22,7 +22,7 @@ a tester performed an SQL injection attack and consequently obtained a list of a
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: a
 

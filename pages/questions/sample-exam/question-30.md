@@ -24,7 +24,7 @@ You work as a tester in a company that develops a desktop financial application 
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: c
 

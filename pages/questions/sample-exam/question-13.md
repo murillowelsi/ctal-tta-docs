@@ -38,7 +38,7 @@ Below is the pseudo-code for a program that calculates and prints sales commissi
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: a
 

@@ -68,7 +68,7 @@ int findMax3(n1, n2, n3) {
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b
 

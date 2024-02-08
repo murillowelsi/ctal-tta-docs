@@ -21,7 +21,7 @@ A fully representative test environment has been made available for the system i
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answers: a, d
 

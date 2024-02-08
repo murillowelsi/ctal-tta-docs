@@ -26,7 +26,7 @@ Assume you are using a keyword-driven automation approach.
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: c, d
 

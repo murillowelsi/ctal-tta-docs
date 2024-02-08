@@ -18,7 +18,7 @@ Consider the following product risk: Abnormal application termination due to net
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: a
 

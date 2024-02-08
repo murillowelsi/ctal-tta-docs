@@ -18,7 +18,7 @@ A Technical Test Analyst has been invited to the formal review of an architectur
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: c
 

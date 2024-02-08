@@ -21,7 +21,7 @@ A web-based holiday booking system expects to handle three times its average num
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answers: a, d
 

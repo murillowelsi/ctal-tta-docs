@@ -18,7 +18,7 @@ You are the Technical Test Analyst working on the testing of software that will 
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: d
 

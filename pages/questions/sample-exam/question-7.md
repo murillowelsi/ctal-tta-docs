@@ -37,7 +37,7 @@ Consider these test input values:
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: a
 

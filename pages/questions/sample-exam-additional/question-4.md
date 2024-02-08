@@ -18,7 +18,7 @@ TTA-4.8.1 (K2) Explain the reasons for including co-existence testing in a test 
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answers: a
 

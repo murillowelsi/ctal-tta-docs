@@ -18,7 +18,7 @@ Consider the following product risk: “The new database is not suitable for rep
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b
 

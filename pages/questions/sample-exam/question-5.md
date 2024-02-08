@@ -20,7 +20,7 @@ You are testing code whose control flow graph is presented below. Node 1 is the 
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: a
 

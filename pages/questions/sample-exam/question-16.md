@@ -43,7 +43,7 @@ Below is the pseudo-code for a TRICKY program:
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b, d
 

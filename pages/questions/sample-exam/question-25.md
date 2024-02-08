@@ -24,7 +24,7 @@ The marketing department anticipates that with the new functionality being intro
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b
 

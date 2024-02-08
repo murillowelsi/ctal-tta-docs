@@ -19,7 +19,7 @@ decision in the module under test consists of 20 independent atomic conditions. 
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b
 

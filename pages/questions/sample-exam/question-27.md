@@ -18,7 +18,7 @@ You work as the TTA on an agile project and you have been asked to calculate the
 ---
 
 <details>
-<summary><strong>Show Result</strong></summary>
+<summary><strong>Show Answer</strong></summary>
 
 #### Correct Answer: b
 
